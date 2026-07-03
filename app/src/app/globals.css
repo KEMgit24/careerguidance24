@@ -1,0 +1,397 @@
+@import "tailwindcss";
+
+/* ========================================
+   CAREER GUIDANCE — Design System
+   ======================================== */
+
+/* ---------- Light Theme (default) ---------- */
+:root {
+  --background: #FAFAF8;
+  --foreground: #1A1A1A;
+  --primary: #1A6B4A;
+  --primary-hover: #155A3E;
+  --primary-light: #E8F5EE;
+  --accent: #D4A853;
+  --accent-hover: #C49A45;
+  --muted: #F3F2EF;
+  --muted-foreground: #6B6B6B;
+  --border: #E5E3DE;
+  --card: #FFFFFF;
+  --card-border: #E5E3DE;
+  --surface: #FFFFFF;
+  --surface-hover: #F7F6F3;
+  --success: #22C55E;
+  --warning: #F59E0B;
+  --error: #EF4444;
+}
+
+/* ---------- Dark Theme ---------- */
+:root[data-theme="dark"] {
+  --background: #0F1210;
+  --foreground: #edf7f5;
+  --primary: #2c6e6b;
+  --primary-hover: #1d4d4f;
+  --primary-light: #1A2E24;
+  --accent: #D4A853;
+  --accent-hover: #E0B865;
+  --muted: #1A1E1B;
+  --muted-foreground: #9dbbba;
+  --border: #2A2E2B;
+  --card: #161A17;
+  --card-border: #2A2E2B;
+  --surface: #1A1E1B;
+  --surface-hover: #222622;
+  --success: #22C55E;
+  --warning: #F59E0B;
+  --error: #EF4444;
+}
+
+/* ---------- Tailwind Theme Tokens ---------- */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-light: var(--primary-light);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-card: var(--card);
+  --color-card-border: var(--card-border);
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-error: var(--error);
+  --font-sans: var(--font-inter);
+  --font-heading: var(--font-playfair);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* ---------- Base Styles ---------- */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), 'Inter', system-ui, -apple-system, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* ---------- Focus States ---------- */
+*:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* ---------- Heading Typography ---------- */
+.font-heading {
+  font-family: var(--font-heading), 'Playfair Display', Georgia, serif;
+}
+
+/* ---------- Selection ---------- */
+::selection {
+  background: var(--primary);
+  color: white;
+}
+
+/* ========================================
+   Animations
+   ======================================== */
+
+/* Fade in + slide up */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Fade in only */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Subtle float */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(calc(-100% - var(--gap)));
+  }
+}
+
+@keyframes progress-bar {
+  0% { width: 0%; }
+  10% { width: 15%; }
+  50% { width: 40%; }
+  80% { width: 85%; }
+  100% { width: 100%; }
+}
+
+.animate-marquee {
+  animation: marquee var(--duration) linear infinite;
+}
+
+.animate-progress-bar {
+  animation: progress-bar 4s ease-in-out forwards;
+}
+
+/* Counter tick */
+@keyframes countUp {
+  from { opacity: 0; transform: scale(0.8); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* Slide in from left */
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Utility classes */
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Stagger delays */
+.delay-100 { animation-delay: 100ms; }
+.delay-200 { animation-delay: 200ms; }
+.delay-300 { animation-delay: 300ms; }
+.delay-400 { animation-delay: 400ms; }
+.delay-500 { animation-delay: 500ms; }
+.delay-600 { animation-delay: 600ms; }
+
+/* Scroll-reveal: hidden by default, visible when in viewport */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px) scale(0.98);
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+/* ========================================
+   Component Utilities
+   ======================================== */
+
+/* Glass effect for navbar */
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+:root[data-theme="dark"] .glass {
+  background: rgba(15, 18, 16, 0.7);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Glass panel for cards */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.04);
+}
+
+:root[data-theme="dark"] .glass-panel {
+  background: rgba(22, 26, 23, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+}
+
+/* Premium shadows */
+.shadow-premium {
+  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.05), 0 0 3px rgba(0, 0, 0, 0.02);
+}
+
+.shadow-hover-premium {
+  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.shadow-hover-premium:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.08), 0 4px 10px rgba(0, 0, 0, 0.03);
+}
+
+/* Card hover lift */
+.card-hover {
+  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.card-hover:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Warm subtle gradient background */
+.bg-warm-gradient {
+  background: linear-gradient(180deg, var(--background) 0%, var(--muted) 100%);
+}
+
+/* Map container */
+.leaflet-container {
+  border-radius: 12px;
+  z-index: 1;
+}
+
+/* Counter animation helper */
+.counter-value {
+  display: inline-block;
+  animation: countUp 0.6s ease-out forwards;
+}
+
+/* Smooth page transitions */
+.page-enter {
+  opacity: 0;
+  transform: translateY(8px);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--muted);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted-foreground);
+}
+
+/* ========================================
+   Mobile Bottom Navigation & PWA utilities
+   ======================================== */
+
+@media all and (display-mode: standalone) {
+  .hide-in-pwa {
+    display: none !important;
+  }
+}
+
+.mobile-bottom-nav {
+  /* Safe area inset for modern phones with home bar */
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.mobile-nav-glass {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(24px) saturate(200%);
+  -webkit-backdrop-filter: blur(24px) saturate(200%);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.10),
+    0 2px 8px rgba(0, 0, 0, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+:root[data-theme="dark"] .mobile-nav-glass {
+  background: rgba(22, 26, 23, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.40),
+    0 2px 8px rgba(0, 0, 0, 0.20),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.mobile-nav-item {
+  min-width: 48px;
+  min-height: 48px;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+.mobile-nav-active {
+  background: rgba(26, 107, 74, 0.10);
+}
+
+:root[data-theme="dark"] .mobile-nav-active {
+  background: rgba(44, 110, 107, 0.18);
+}
+
+/* Mobile touch target improvements */
+@media (max-width: 1023px) {
+  /* Prevent double-tap zoom */
+  button, a, [role="button"] {
+    touch-action: manipulation;
+  }
+
+  /* Better body padding for bottom nav */
+  body {
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+
+  /* Increase tap areas on small inputs */
+  input, textarea, select {
+    font-size: 16px; /* Prevents iOS zoom on focus */
+  }
+}
+
+/* Animate nav in on load */
+@keyframes slideUpNav {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.mobile-bottom-nav {
+  animation: slideUpNav 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}

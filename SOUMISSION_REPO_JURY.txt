@@ -1,0 +1,21 @@
+Objet : Soumission du code source - Équipe Zero_Day (Hackathon TCC 2026)
+
+Bonjour cher jury,
+
+Veuillez trouver ci-dessous le lien vers le dépôt GitHub public contenant le code source de notre projet "Career Guidance", développé dans le cadre de la track "Bâtir sa Nation".
+
+Lien du dépôt GitHub :
+👉 https://github.com/shanlight01/TCCHackDefend2026_Zero_Day
+
+Membres de l'équipe (Zero_Day) :
+- KASSANG Essognim Marcel Junior
+- EZIMORA Chioma
+- AGBODJA Edem Delson
+- ALLAI Edewa Junior
+
+Le dépôt est public, organisé, et contient un fichier README détaillé avec toutes les instructions nécessaires pour tester notre solution localement (ainsi que des identifiants de test).
+
+Merci pour votre temps et excellente évaluation !
+
+Cordialement,
+L'équipe Zero_Day

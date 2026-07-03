@@ -1,0 +1,743 @@
+{
+  "roadmaps": [
+    {
+      "career_id": "car_001",
+      "competences_cles": ["Maîtrise des langages de programmation (JavaScript, Python)", "Résolution de problèmes algorithmiques", "Travail en équipe sur des projets logiciels (Git)", "Anglais technique", "Conception de bases de données (SQL/NoSQL)"],
+      "soft_skills": [
+        { "nom": "Pensée logique", "description": "Décomposer un problème complexe en étapes simples et structurées.", "emoji": "🧩" },
+        { "nom": "Autonomie", "description": "Savoir apprendre seul·e, lire de la documentation, trouver des solutions sans attendre.", "emoji": "🦅" },
+        { "nom": "Persévérance", "description": "Les bugs font partie du quotidien — ne jamais abandonner face à l'erreur.", "emoji": "💪" },
+        { "nom": "Communication technique", "description": "Expliquer clairement son code et ses choix à des non-développeurs.", "emoji": "🗣️" },
+        { "nom": "Veille technologique", "description": "Le domaine évolue vite — rester curieux et se former en continu.", "emoji": "📡" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Maths et Informatique", "Créer des mini-projets (site web, app simple)", "Rejoindre des clubs tech"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Licence Informatique ou BTS Dev", "Apprendre Git, JavaScript, Python", "Stage dans une startup"], "couleur": "success" },
+        { "phase": "Débutant (0–2 ans)", "actions": ["Premier emploi junior", "Contribuer à des projets open source", "Construire un portfolio en ligne"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Lead Developer ou Tech Lead", "Lancer sa propre startup", "Mentorer les jeunes développeurs"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Mathématiques", "Informatique / Sciences du Numérique", "Anglais", "Logique"],
+      "matieres_details": [
+        {
+          "matiere": "Mathématiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Algèbre & équations", "application": "Écrire des algorithmes qui résolvent des calculs, comme un calculateur de prix." },
+            { "chapitre": "Fonctions & courbes", "application": "Modéliser les performances d'une application (courbe de charge serveur)." },
+            { "chapitre": "Logique booléenne", "application": "Comprendre les conditions dans le code : si X alors Y, sinon Z." }
+          ]
+        },
+        {
+          "matiere": "Informatique / Sciences du Numérique",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Algorithmes & structures de données", "application": "Concevoir des fonctions efficaces pour trier ou rechercher des données rapidement." },
+            { "chapitre": "Réseaux & internet", "application": "Comprendre comment ton site web est accessible depuis n'importe quel téléphone au Togo." },
+            { "chapitre": "Bases de données", "application": "Stocker et récupérer les données des utilisateurs d'une application mobile." }
+          ]
+        },
+        {
+          "matiere": "Anglais",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Lecture de textes techniques", "application": "90% de la documentation et des tutoriels en programmation sont en anglais." },
+            { "chapitre": "Expression écrite", "application": "Rédiger des commentaires de code clairs compréhensibles par des collègues du monde entier." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_003", "uni_022", "uni_024", "uni_006"]
+    },
+    {
+      "career_id": "car_002",
+      "competences_cles": ["Connaissance des sols, cultures et climatologie", "Utilisation d'équipements agricoles modernes", "Gestion financière d'une exploitation agricole", "Sensibilisation aux techniques d'irrigation", "Rédaction de projets agricoles pour financements"],
+      "soft_skills": [
+        { "nom": "Observation", "description": "Analyser l'état des cultures, du sol et du climat pour anticiper les problèmes.", "emoji": "👁️" },
+        { "nom": "Patience", "description": "L'agriculture suit les cycles naturels — les résultats prennent du temps.", "emoji": "🌱" },
+        { "nom": "Adaptabilité", "description": "Face aux imprévus climatiques, trouver des solutions rapidement.", "emoji": "🔄" },
+        { "nom": "Esprit entrepreneurial", "description": "Gérer une exploitation comme une entreprise pour être rentable.", "emoji": "💼" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en SVT et Géographie", "Faire des stages dans des fermes", "Rejoindre des clubs environnement"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Licence Agronomie (ESA, ITRA)", "Apprendre l'irrigation et les sols", "Projets de terrain sur les cultures"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Technicien dans une coopérative", "Travailler avec des ONG agricoles", "Appliquer les nouvelles techniques"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Gérer sa propre exploitation", "Consulter pour des projets publics", "Former d'autres agriculteurs"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["SVT (Sciences de la Vie et de la Terre)", "Physique-Chimie", "Mathématiques", "Géographie"],
+      "matieres_details": [
+        {
+          "matiere": "SVT (Sciences de la Vie et de la Terre)",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Photosynthèse & nutrition des plantes", "application": "Comprendre pourquoi certaines cultures manquent de nutriments et choisir les bons engrais." },
+            { "chapitre": "Les sols et leur composition", "application": "Analyser la qualité d'un terrain avant de planter pour garantir un bon rendement." },
+            { "chapitre": "Les écosystèmes", "application": "Mettre en place une agriculture durable qui préserve l'environnement local." }
+          ]
+        },
+        {
+          "matiere": "Géographie",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Les climats tropicaux", "application": "Choisir les bonnes cultures en fonction des saisons de pluie au Togo." },
+            { "chapitre": "Gestion des ressources en eau", "application": "Planifier les systèmes d'irrigation pour les périodes de sécheresse." }
+          ]
+        },
+        {
+          "matiere": "Mathématiques",
+          "priorite": "Important",
+          "chapitres": [
+            { "chapitre": "Statistiques & proportions", "application": "Calculer le rendement à l'hectare et estimer les bénéfices d'une récolte." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_022", "uni_009"]
+    },
+    {
+      "career_id": "car_004",
+      "competences_cles": ["Conception de systèmes solaires et éoliens", "Électrotechnique et câblage électrique", "Maintenance préventive et corrective des installations", "Lecture de plans et schémas électriques", "Gestion de projets d'électrification rurale"],
+      "soft_skills": [
+        { "nom": "Rigueur technique", "description": "Une erreur de câblage peut être dangereuse — la précision est non négociable.", "emoji": "🔬" },
+        { "nom": "Sens pratique", "description": "Savoir travailler sur le terrain, parfois dans des conditions difficiles.", "emoji": "🔧" },
+        { "nom": "Pédagogie", "description": "Former les communautés rurales à utiliser et entretenir les installations solaires.", "emoji": "🎓" },
+        { "nom": "Gestion de projet", "description": "Coordonner une équipe pour installer un système solaire dans les délais.", "emoji": "📋" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Physique et Maths", "Faire des petits projets électroniques", "Comprendre le fonctionnement des panneaux solaires"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["BTS Électrotechnique ou Licence Génie Électrique", "Spécialisation Énergies Renouvelables", "Stage chez CEET ou Bboxx Togo"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Technicien en électrification rurale", "Installation de systèmes solaires", "Maintenance des réseaux existants"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Chef de projet énergie", "Consultant pour les gouvernements", "Lancer une entreprise solaire"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Physique-Chimie", "Mathématiques", "Sciences de l'Ingénieur", "Informatique industrielle"],
+      "matieres_details": [
+        {
+          "matiere": "Physique-Chimie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Électricité & circuits électriques", "application": "Comprendre comment câbler un panneau solaire à une batterie et à une maison." },
+            { "chapitre": "L'énergie et ses transformations", "application": "Calculer la puissance nécessaire pour alimenter un village en électricité solaire." },
+            { "chapitre": "Ondes électromagnétiques", "application": "Optimiser le placement des panneaux solaires selon l'angle du soleil au Togo." }
+          ]
+        },
+        {
+          "matiere": "Mathématiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Calcul vectoriel & trigonométrie", "application": "Calculer l'angle d'inclinaison idéal des panneaux solaires selon la latitude de Lomé." },
+            { "chapitre": "Équations différentielles", "application": "Modéliser la courbe de charge d'une batterie solaire dans le temps." }
+          ]
+        },
+        {
+          "matiere": "Sciences de l'Ingénieur",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Lecture de schémas techniques", "application": "Comprendre les plans fournis par les fabricants pour installer correctement une éolienne." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_022", "uni_013", "uni_006"]
+    },
+    {
+      "career_id": "car_011",
+      "competences_cles": ["Programmation Python et R pour l'analyse de données", "Machine Learning et intelligence artificielle", "Visualisation des données (Power BI, Tableau, Matplotlib)", "Bases de données (SQL, NoSQL, Big Data)", "Statistiques appliquées et modélisation"],
+      "soft_skills": [
+        { "nom": "Esprit analytique", "description": "Voir des tendances et des patterns dans des milliers de lignes de données.", "emoji": "📊" },
+        { "nom": "Curiosité intellectuelle", "description": "Se poser sans cesse la question : 'Pourquoi ?' face à chaque résultat.", "emoji": "🔍" },
+        { "nom": "Rigueur scientifique", "description": "Valider ses hypothèses avec des méthodes statistiques rigoureuses.", "emoji": "🔬" },
+        { "nom": "Communication des résultats", "description": "Traduire des analyses complexes en insights clairs pour des décideurs.", "emoji": "📢" },
+        { "nom": "Éthique des données", "description": "Utiliser les données de façon responsable en respectant la vie privée.", "emoji": "⚖️" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Maths avancées", "Apprendre Excel et les statistiques de base", "Suivre des cours Python en ligne (gratuits)"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Licence Informatique / Statistiques", "Master Data Science", "Certifications Coursera/Google"], "couleur": "success" },
+        { "phase": "Débutant (0–2 ans)", "actions": ["Analyste de données junior", "Travailler sur des projets open data Togo", "Construire un portfolio Kaggle"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Lead Data Scientist", "Conseiller des institutions gouvernementales", "Développer des solutions IA Made in Togo"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Mathématiques (avancées)", "Informatique", "Statistiques", "Anglais"],
+      "matieres_details": [
+        {
+          "matiere": "Mathématiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Probabilités & statistiques", "application": "Calculer la probabilité qu'un client achète un produit — base de tout modèle prédictif." },
+            { "chapitre": "Algèbre linéaire & matrices", "application": "Comprendre comment fonctionnent les algorithmes de Machine Learning comme la régression." },
+            { "chapitre": "Suites & séries", "application": "Modéliser l'évolution du PIB togolais et prédire sa croissance future." }
+          ]
+        },
+        {
+          "matiere": "Informatique",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Algorithmique & complexité", "application": "Écrire des scripts Python efficaces qui traitent des millions de données sans planter." },
+            { "chapitre": "Bases de données SQL", "application": "Extraire et analyser les données de ventes d'une entreprise togolaise." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_003", "uni_022", "uni_024"]
+    },
+    {
+      "career_id": "car_006",
+      "competences_cles": ["Maîtrise du Plan Comptable OHADA", "Utilisation des logiciels comptables (Sage, SAARI)", "Déclarations fiscales et douanières", "Audit et contrôle interne", "Analyse financière et reporting"],
+      "soft_skills": [
+        { "nom": "Rigueur & précision", "description": "Une erreur d'un centime dans les comptes peut avoir de graves conséquences légales.", "emoji": "🎯" },
+        { "nom": "Confidentialité", "description": "Garder strictement secrets les données financières des clients.", "emoji": "🔒" },
+        { "nom": "Organisation", "description": "Gérer simultanément les dossiers de plusieurs entreprises clientes.", "emoji": "🗂️" },
+        { "nom": "Intégrité", "description": "Résister à toute pression pour falsifier des documents comptables.", "emoji": "⚖️" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Maths et Économie", "Comprendre les bases de la comptabilité", "Lire l'actualité économique togolaise"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["BTS Comptabilité ou Licence FSEG", "Maîtriser le plan comptable OHADA", "Stage en cabinet comptable"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Assistant comptable", "Traiter les bilans et déclarations fiscales", "Passer l'examen DSCG"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Expert-comptable certifié", "Ouvrir son propre cabinet", "Conseiller des PME togolaises"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Mathématiques", "Économie", "Gestion", "Droit des affaires"],
+      "matieres_details": [
+        {
+          "matiere": "Mathématiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Calcul de pourcentages & ratios", "application": "Calculer la marge bénéficiaire d'une entreprise togolaise d'import-export." },
+            { "chapitre": "Intérêts composés & actualisation", "application": "Évaluer si un crédit bancaire est avantageux pour financer une PME." }
+          ]
+        },
+        {
+          "matiere": "Économie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Fiscalité & impôts", "application": "Comprendre les obligations fiscales d'une entreprise vis-à-vis de l'OTR (Office Togolais des Recettes)." },
+            { "chapitre": "Marchés financiers", "application": "Conseiller un client sur l'investissement à la BRVM (Bourse Régionale de l'Afrique de l'Ouest)." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_001", "uni_002", "uni_005", "uni_004", "uni_022"]
+    },
+    {
+      "career_id": "car_005",
+      "competences_cles": ["Maîtrise des réseaux sociaux (Facebook, Instagram, TikTok, LinkedIn)", "Création de contenu visuel et vidéo", "Rédaction web et copywriting", "Publicité digitale (Facebook Ads, Google Ads)", "Analyse des statistiques et KPIs"],
+      "soft_skills": [
+        { "nom": "Créativité", "description": "Imaginer constamment de nouveaux contenus originaux qui retiennent l'attention.", "emoji": "🎨" },
+        { "nom": "Empathie audience", "description": "Se mettre à la place des followers pour créer du contenu qui résonne avec eux.", "emoji": "❤️" },
+        { "nom": "Adaptabilité", "description": "Les algorithmes des réseaux changent souvent — s'adapter rapidement.", "emoji": "🔄" },
+        { "nom": "Sens des données", "description": "Analyser ses statistiques pour comprendre ce qui fonctionne et optimiser.", "emoji": "📊" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Créer ses propres pages et tester des contenus", "Apprendre Canva et la photo/vidéo", "Suivre des comptes de marketing digital"], "couleur": "primary" },
+        { "phase": "Formation (2–4 ans)", "actions": ["BTS Communication ou Marketing", "Certifications Google/Meta", "Gérer les réseaux d'une petite entreprise"], "couleur": "success" },
+        { "phase": "Débutant (0–2 ans)", "actions": ["Community Manager junior", "Créer des campagnes publicitaires", "Bâtir un portfolio de résultats concrets"], "couleur": "warning" },
+        { "phase": "Expert (3+ ans)", "actions": ["Responsable marketing digital", "Lancer sa propre agence à Lomé", "Former les PME locales au numérique"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Français / Lettres", "Langues vivantes (Anglais)", "Arts Plastiques", "Informatique"],
+      "matieres_details": [
+        {
+          "matiere": "Français / Lettres",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Techniques de rédaction & argumentation", "application": "Rédiger des légendes de posts percutantes qui donnent envie de cliquer et d'acheter." },
+            { "chapitre": "Analyse de textes & rhétorique", "application": "Comprendre les mécanismes de la persuasion pour rédiger des publicités efficaces." }
+          ]
+        },
+        {
+          "matiere": "Arts Plastiques",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Composition visuelle & couleurs", "application": "Créer des visuels attractifs qui respectent l'identité de marque d'un client togolais." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_014", "uni_022", "uni_010", "uni_018"]
+    },
+    {
+      "career_id": "car_007",
+      "competences_cles": ["Examen clinique et diagnostic médical", "Maîtrise des pathologies tropicales (paludisme, typhoïde, choléra)", "Prescription et suivi des traitements", "Urgences médicales et réanimation", "Communication bienveillante avec les patients"],
+      "soft_skills": [
+        { "nom": "Empathie profonde", "description": "Écouter et rassurer des patients souvent vulnérables et anxieux.", "emoji": "❤️" },
+        { "nom": "Sang-froid", "description": "Prendre les bonnes décisions rapidement en situation d'urgence vitale.", "emoji": "🧊" },
+        { "nom": "Éthique médicale", "description": "Respecter scrupuleusement le secret médical et l'intégrité du patient.", "emoji": "⚕️" },
+        { "nom": "Apprentissage continu", "description": "La médecine évolue — se former en permanence aux nouvelles techniques.", "emoji": "📚" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en SVT, Chimie et Maths", "Faire du bénévolat dans des hôpitaux", "Maintenir une excellente moyenne (concours sélectif)"], "couleur": "primary" },
+        { "phase": "Formation (7–9 ans)", "actions": ["Concours d'entrée en Médecine (UL)", "6 ans d'études + internat", "Spécialisation si souhaité"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Médecin généraliste en CHP/CHU", "Médecin dans une ONG (MSF...)", "Installation en cabinet libéral"], "couleur": "warning" },
+        { "phase": "Expert (10+ ans)", "actions": ["Spécialiste reconnu", "Chef de service hospitalier", "Contribuer à la recherche médicale en Afrique"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["SVT (Sciences de la Vie et de la Terre)", "Physique-Chimie", "Mathématiques", "Philosophie"],
+      "matieres_details": [
+        {
+          "matiere": "SVT",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Le système immunitaire", "application": "Comprendre comment le paludisme (principale cause de mort au Togo) attaque le corps et comment le traiter." },
+            { "chapitre": "Génétique & hérédité", "application": "Diagnostiquer des maladies génétiques comme la drépanocytose, très fréquente en Afrique de l'Ouest." },
+            { "chapitre": "Biologie cellulaire", "application": "Comprendre les mécanismes des cancers pour mieux les combattre." }
+          ]
+        },
+        {
+          "matiere": "Physique-Chimie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Cinétique chimique", "application": "Comprendre comment les médicaments agissent dans le corps et leur dosage." },
+            { "chapitre": "Optique et imagerie", "application": "Interpréter les radiographies et les échographies pour diagnostiquer une maladie." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_022"]
+    },
+    {
+      "career_id": "car_008",
+      "competences_cles": ["Conception architecturale et dessin technique", "Maîtrise des logiciels CAO (AutoCAD, ArchiCAD, Revit)", "Droit de l'urbanisme et des constructions", "Gestion de chantier et coordination des équipes", "Rendu 3D et présentation client"],
+      "soft_skills": [
+        { "nom": "Vision esthétique", "description": "Créer des espaces à la fois fonctionnels et visuellement harmonieux.", "emoji": "🎨" },
+        { "nom": "Écoute client", "description": "Traduire la vision d'un client en plans concrets tout en respectant ses contraintes.", "emoji": "👂" },
+        { "nom": "Précision technique", "description": "Un millimètre d'erreur sur un plan peut coûter des millions de FCFA sur chantier.", "emoji": "📐" },
+        { "nom": "Gestion du stress", "description": "Respecter des délais serrés tout en gérant des équipes et des fournisseurs.", "emoji": "⏱️" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Arts Plastiques et Maths", "Apprendre les bases du dessin technique", "Visiter des chantiers de construction à Lomé"], "couleur": "primary" },
+        { "phase": "Formation (5–6 ans)", "actions": ["Master Architecture (EPAC, UL)", "Apprendre AutoCAD et ArchiCAD", "Stage dans un cabinet d'architecture"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Architecte junior dans un cabinet", "Concevoir des plans de maisons individuelles", "Passer le concours d'inscription à l'Ordre des Architectes du Togo"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Ouvrir son propre cabinet", "Remporter des appels d'offre publics", "Contribuer à l'urbanisme de Lomé"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Arts Plastiques", "Mathématiques", "Physique-Chimie", "Sciences de l'Ingénieur"],
+      "matieres_details": [
+        {
+          "matiere": "Mathématiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Géométrie dans l'espace", "application": "Calculer les volumes et surfaces d'un bâtiment pour estimer les quantités de matériaux." },
+            { "chapitre": "Trigonométrie", "application": "Calculer les pentes d'un toit et la résistance d'une charpente." }
+          ]
+        },
+        {
+          "matiere": "Arts Plastiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Perspective & dessin d'observation", "application": "Réaliser des croquis de projets architecturaux convaincants lors de présentations clients." },
+            { "chapitre": "Composition & équilibre visuel", "application": "Concevoir des façades de bâtiments esthétiques qui valorisent le quartier." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_011", "uni_022", "uni_023"]
+    },
+    {
+      "career_id": "car_009",
+      "competences_cles": ["Gestion des stocks et des entrepôts (WMS)", "Maîtrise des Incoterms et du commerce international", "Transit douanier et réglementation portuaire", "Logistique inverse et traçabilité", "Coordination des transporteurs"],
+      "soft_skills": [
+        { "nom": "Organisation", "description": "Coordonner des dizaines d'expéditions simultanément sans perdre le fil.", "emoji": "🗂️" },
+        { "nom": "Négociation", "description": "Obtenir les meilleurs tarifs auprès des transporteurs et fournisseurs.", "emoji": "🤝" },
+        { "nom": "Réactivité", "description": "Résoudre rapidement les blocages douaniers ou les retards de livraison.", "emoji": "⚡" },
+        { "nom": "Rigueur documentaire", "description": "Un formulaire mal rempli peut bloquer un conteneur au Port de Lomé pendant des semaines.", "emoji": "📋" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Géographie et Maths", "Comprendre le fonctionnement du Port Autonome de Lomé", "Apprendre l'anglais commercial"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["BTS Transport & Logistique", "Licence Commerce International (FSEG)", "Stage au Port de Lomé ou dans une société de transit"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Agent de transit douanier", "Responsable entrepôt dans une PME", "Coordonnateur livraisons (GLS, DHL Togo)"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Directeur Supply Chain", "Consultant pour des projets CEDEAO", "Créer sa propre société de transit"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Géographie", "Mathématiques", "Économie", "Anglais"],
+      "matieres_details": [
+        {
+          "matiere": "Géographie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Commerce mondial & flux d'échanges", "application": "Comprendre pourquoi le Port de Lomé est stratégique pour tout le Sahel (Burkina, Mali, Niger)." },
+            { "chapitre": "Transports & réseaux de communication", "application": "Planifier la meilleure route pour livrer des marchandises de Lomé à Ouagadougou." }
+          ]
+        },
+        {
+          "matiere": "Économie",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Commerce international & OHADA", "application": "Comprendre les réglementations douanières pour importer des équipements sans payer de surprimes." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_001", "uni_002", "uni_022", "uni_010"]
+    },
+    {
+      "career_id": "car_012",
+      "competences_cles": ["Planification de projets (méthode PERT, Gantt)", "Gestion budgétaire et reporting financier", "Leadership et management d'équipes pluridisciplinaires", "Cadre logique (LogFrame) pour projets ONG", "Communication et négociation"],
+      "soft_skills": [
+        { "nom": "Leadership", "description": "Inspirer et motiver une équipe diverse à atteindre un objectif commun.", "emoji": "🦁" },
+        { "nom": "Diplomatie", "description": "Gérer les conflits entre parties prenantes avec tact et efficacité.", "emoji": "🕊️" },
+        { "nom": "Vision stratégique", "description": "Anticiper les risques et planifier les solutions avant les problèmes.", "emoji": "🔭" },
+        { "nom": "Reporting", "description": "Rendre compte de façon claire et transparente aux bailleurs de fonds.", "emoji": "📊" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller dans toutes les matières", "S'impliquer dans des projets scolaires (délégué, club)", "Développer l'anglais et le français"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Master Gestion de Projets ou Administration", "Certifications PMP ou PRINCE2", "Stage dans une ONG ou une institution internationale"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Coordinateur de projet junior (ONG, PNUD, UNICEF)", "Gestion de projets de développement communautaire", "Apprentissage du cadre logique OCDE"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Chef de projet senior", "Représentant pays d'une ONG internationale", "Consultant indépendant pour des bailleurs de fonds"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Mathématiques", "Économie", "Langues (Anglais/Français)", "Gestion"],
+      "matieres_details": [
+        {
+          "matiere": "Économie / Gestion",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Budget & gestion financière", "application": "Planifier et suivre le budget d'un projet de construction d'école financé par l'UNICEF Togo." },
+            { "chapitre": "Microéconomie & marchés", "application": "Analyser l'impact économique d'un programme d'aide alimentaire sur le marché local." }
+          ]
+        },
+        {
+          "matiere": "Langues (Anglais/Français)",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Rédaction formelle & rapports", "application": "Rédiger des rapports d'avancement pour des bailleurs comme la Banque Mondiale en anglais." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_004", "uni_010", "uni_022", "uni_001"]
+    },
+    {
+      "career_id": "car_013",
+      "competences_cles": ["Maîtrise du droit OHADA et du droit togolais", "Rédaction d'actes juridiques et de contrats", "Procédure civile et pénale", "Consultation et conseil juridique", "Plaidoirie et défense en audience"],
+      "soft_skills": [
+        { "nom": "Analyse critique", "description": "Identifier les failles juridiques et les arguments clés d'un dossier complexe.", "emoji": "⚖️" },
+        { "nom": "Persuasion orale", "description": "Convaincre un tribunal avec des arguments solides et bien articulés.", "emoji": "🎤" },
+        { "nom": "Mémoire & méthode", "description": "Retenir de nombreux textes de loi et les appliquer au bon moment.", "emoji": "🧠" },
+        { "nom": "Confidentialité absolue", "description": "Garder le secret professionnel même sous pression.", "emoji": "🔒" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Français, Histoire et Philosophie", "Développer l'esprit d'argumentation", "Lire les grands textes de droit africain"], "couleur": "primary" },
+        { "phase": "Formation (5–7 ans)", "actions": ["Licence puis Master Droit (FDSP-UL)", "Passer le CAPA (Certificat d'Aptitude à la Profession d'Avocat)", "Stage dans un cabinet d'avocats"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Avocat stagiaire ou collaborateur", "Traiter des dossiers de droit des affaires OHADA", "Plaider devant le Tribunal de Commerce de Lomé"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Ouvrir son propre cabinet d'avocats", "Conseiller des multinationales au Togo", "Devenir juge ou magistrat"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Français (rédaction)", "Histoire", "Philosophie", "Économie"],
+      "matieres_details": [
+        {
+          "matiere": "Français",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Argumentation & dissertation", "application": "Construire un mémoire de défense solide et convaincant pour un client accusé devant un tribunal." },
+            { "chapitre": "Analyse de textes officiels", "application": "Décortiquer un contrat commercial pour identifier les clauses abusives et protéger ton client." }
+          ]
+        },
+        {
+          "matiere": "Philosophie",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Justice, droit naturel & éthique", "application": "Comprendre les fondements de la loi pour défendre des causes qui transcendent les textes." },
+            { "chapitre": "Logique formelle & syllogisme", "application": "Construire des raisonnements juridiques irréfutables lors d'une plaidoirie." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_022", "uni_014", "uni_008", "uni_020"]
+    },
+    {
+      "career_id": "car_010",
+      "competences_cles": ["Maîtrise approfondie de la matière enseignée", "Techniques pédagogiques et didactiques", "Gestion de classe et discipline positive", "Élaboration de progressions et fiches de cours", "Soutien scolaire individualisé"],
+      "soft_skills": [
+        { "nom": "Patience", "description": "Expliquer le même concept de 10 façons différentes jusqu'à ce que l'élève comprenne.", "emoji": "🌱" },
+        { "nom": "Passion de transmettre", "description": "Rendre une matière passionnante même pour les élèves qui la trouvent difficile.", "emoji": "🔥" },
+        { "nom": "Écoute & bienveillance", "description": "Identifier les difficultés d'un élève sans le juger pour mieux l'accompagner.", "emoji": "❤️" },
+        { "nom": "Créativité pédagogique", "description": "Inventer des exemples tirés du quotidien togolais pour rendre les cours vivants.", "emoji": "🎭" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Excellente maîtrise de la matière choisie", "Aider ses camarades à comprendre les cours", "Développer le goût de la pédagogie"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Licence dans la matière + Certificat d'Aptitude au Professorat (CAP)", "École Normale Supérieure (ENS) de Lomé", "Stage pratique dans des lycées"], "couleur": "success" },
+        { "phase": "Débutant (0–5 ans)", "actions": ["Professeur certifié dans un lycée public ou privé", "Enseigner au lycée de Lomé ou en région", "Préparer les élèves au BAC"], "couleur": "warning" },
+        { "phase": "Expert (10+ ans)", "actions": ["Proviseur ou Directeur d'établissement", "Inspecteur pédagogique régional", "Former les nouveaux enseignants"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["La matière choisie + Pédagogie", "Psychologie de l'enfant"],
+      "matieres_details": [
+        {
+          "matiere": "La matière enseignée",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Maîtrise complète du programme lycée", "application": "Anticiper toutes les questions des élèves et y répondre avec clarté et précision." }
+          ]
+        },
+        {
+          "matiere": "Psychologie",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Développement de l'enfant & adolescent", "application": "Comprendre pourquoi un élève de Terminale manque de motivation et comment le remotiver." },
+            { "chapitre": "Styles d'apprentissage", "application": "Adapter sa pédagogie : certains élèves apprennent mieux en lisant, d'autres en pratiquant." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_019", "uni_022", "uni_009"]
+    },
+    {
+      "career_id": "car_014",
+      "competences_cles": ["Électromécanique et automatismes industriels", "Hydraulique et pneumatique", "Lecture de plans et schémas techniques", "Diagnostic des pannes (méthode AMDEC)", "Maintenance préventive (planning TPM)"],
+      "soft_skills": [
+        { "nom": "Sens pratique", "description": "Aimer résoudre des problèmes concrets avec ses mains dans un environnement industriel.", "emoji": "🔧" },
+        { "nom": "Méthode & ordre", "description": "Diagnostiquer une panne de façon systématique pour ne pas perdre de temps.", "emoji": "📋" },
+        { "nom": "Réactivité", "description": "Une machine arrêtée coûte de l'argent — intervenir vite et bien.", "emoji": "⚡" },
+        { "nom": "Sécurité avant tout", "description": "Respecter strictement les protocoles de sécurité pour éviter les accidents.", "emoji": "🦺" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Physique-Chimie et Maths", "Bricoler et comprendre le fonctionnement des machines", "Faire un stage dans une usine ou un atelier"], "couleur": "primary" },
+        { "phase": "Formation (2–4 ans)", "actions": ["BTS Maintenance Industrielle ou Électromécanique", "Apprendre les automates Siemens/Schneider", "Stage dans les zones industrielles de Lomé"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Technicien de maintenance dans une usine (Brasserie BB, CIMTOGO...)", "Participer aux arrêts techniques planifiés", "Rédiger les procédures de maintenance"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Responsable maintenance d'une grande unité industrielle", "Consultant en amélioration de la fiabilité des équipements", "Former les techniciens juniors"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Physique-Chimie", "Mathématiques", "Sciences de l'Ingénieur", "Technologie"],
+      "matieres_details": [
+        {
+          "matiere": "Physique-Chimie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Mécanique & forces", "application": "Comprendre pourquoi un roulement de machine s'use et comment le remplacer au bon moment." },
+            { "chapitre": "Électricité & moteurs", "application": "Diagnostiquer pourquoi un convoyeur de la brasserie BB s'est arrêté et le remettre en marche rapidement." }
+          ]
+        },
+        {
+          "matiere": "Sciences de l'Ingénieur",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Systèmes automatisés", "application": "Programmer un automate industriel pour contrôler la ligne de production d'une usine de ciment." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_006", "uni_012", "uni_022"]
+    },
+    {
+      "career_id": "car_015",
+      "competences_cles": ["Analyse du risque crédit", "Connaissance des produits bancaires (épargne, crédit, assurance)", "Relation client et vente de services financiers", "Conformité bancaire (KYC, AML)", "Maîtrise des systèmes bancaires (Core Banking)"],
+      "soft_skills": [
+        { "nom": "Sens du service client", "description": "Mettre les clients à l'aise pour qu'ils confient sereinement leurs économies.", "emoji": "🤝" },
+        { "nom": "Discrétion financière", "description": "Ne jamais révéler les informations financières des clients — c'est une obligation légale.", "emoji": "🔒" },
+        { "nom": "Esprit commercial", "description": "Identifier les besoins des clients et proposer les produits financiers adaptés.", "emoji": "💡" },
+        { "nom": "Rigueur chiffrée", "description": "Analyser les bilans des entreprises pour évaluer leur capacité de remboursement.", "emoji": "🔢" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Maths et Économie", "Comprendre le fonctionnement des banques", "Apprendre l'anglais financier"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Licence Banque-Finance ou Économie (FSEG-UL)", "Master Finance ou MBA", "Stage dans une banque de Lomé (Ecobank, UTB, ORABANK)"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Chargé de clientèle junior", "Analyste crédit", "Conseiller en agence bancaire"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Directeur d'agence bancaire", "Responsable crédits aux entreprises", "Créer sa propre IMF (Institution de Microfinance)"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Mathématiques", "Économie", "Gestion", "Anglais"],
+      "matieres_details": [
+        {
+          "matiere": "Mathématiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Calcul d'intérêts & actuariel", "application": "Calculer le montant total à rembourser sur un crédit immobilier sur 20 ans à Lomé." },
+            { "chapitre": "Probabilités & risques", "application": "Évaluer la probabilité qu'un client ne rembourse pas son crédit et fixer le taux d'intérêt en conséquence." }
+          ]
+        },
+        {
+          "matiere": "Économie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Politique monétaire & BCEAO", "application": "Comprendre pourquoi la Banque Centrale West-Africaine change les taux directeurs et son impact sur vos crédits." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_001", "uni_002", "uni_010", "uni_022"]
+    },
+    {
+      "career_id": "car_016",
+      "competences_cles": ["Maîtrise de la suite Adobe (Photoshop, Illustrator, InDesign)", "Conception d'identités visuelles et chartes graphiques", "UI/UX Design (Figma, Sketch)", "Motion Design et animation vidéo", "Impression et production visuelle"],
+      "soft_skills": [
+        { "nom": "Créativité", "description": "Générer continuellement de nouvelles idées visuelles originales et pertinentes.", "emoji": "🎨" },
+        { "nom": "Écoute du brief client", "description": "Comprendre précisément ce que le client veut avant de commencer à créer.", "emoji": "👂" },
+        { "nom": "Sens du détail", "description": "Remarquer les imperfections que personne d'autre ne voit et les corriger.", "emoji": "🔍" },
+        { "nom": "Respect des délais", "description": "Livrer des créations de qualité dans les temps impartis sans se laisser déborder.", "emoji": "⏱️" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Arts Plastiques", "Créer un compte Behance ou Instagram portfolio", "Apprendre Canva et les bases de Photoshop (gratuit)"], "couleur": "primary" },
+        { "phase": "Formation (2–4 ans)", "actions": ["BTS Design Graphique ou Licence Arts Appliqués", "Maîtriser la suite Adobe et Figma", "Prendre des commandes freelance dès la 1ère année"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Graphiste dans une agence pub de Lomé", "Designer freelance pour des PME locales", "Créer des visuels pour des événements togolais"], "couleur": "warning" },
+        { "phase": "Expert (3+ ans)", "actions": ["Directeur artistique", "Ouvrir sa propre agence créative à Lomé", "Designer pour des marques panafricaines"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Arts Plastiques", "Informatique", "Mathématiques (géométrie)", "Langues"],
+      "matieres_details": [
+        {
+          "matiere": "Arts Plastiques",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Théorie des couleurs", "application": "Choisir une palette de couleurs cohérente pour l'identité visuelle d'une marque togolaise de cacao." },
+            { "chapitre": "Typographie & composition", "application": "Créer une affiche événementielle pour le FITHEB (Festival de Théâtre de Bénin/Togo) qui attire l'œil." }
+          ]
+        },
+        {
+          "matiere": "Informatique",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Formats de fichiers & résolution", "application": "Préparer des visuels adaptés à l'impression grand format (panneaux publicitaires à Lomé) et au web." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_011", "uni_022", "uni_003"]
+    },
+    {
+      "career_id": "car_017",
+      "competences_cles": ["Droit administratif togolais", "Rédaction administrative (notes, circulaires, rapports)", "Gestion des archives et documentation", "Éthique et déontologie de la fonction publique", "Management des équipes publiques"],
+      "soft_skills": [
+        { "nom": "Neutralité & impartialité", "description": "Servir l'intérêt général sans favoritisme, même face aux pressions.", "emoji": "⚖️" },
+        { "nom": "Rigueur administrative", "description": "Respecter scrupuleusement les procédures légales pour que les actes administratifs soient valides.", "emoji": "📋" },
+        { "nom": "Discrétion", "description": "Ne pas divulguer les informations confidentielles de l'État.", "emoji": "🔒" },
+        { "nom": "Sens du service public", "description": "Être motivé par l'idée de servir les citoyens togolais, pas seulement par le salaire.", "emoji": "🇹🇬" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Français, Histoire et Économie", "Comprendre l'organisation de l'État togolais", "Suivre l'actualité politique et administrative"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Licence Droit Public ou Administration (ENA)", "École Nationale d'Administration du Togo", "Concours de la Fonction Publique"], "couleur": "success" },
+        { "phase": "Débutant (0–5 ans)", "actions": ["Agent de catégorie A dans un ministère", "Rédiger des notes de service et rapports officiels", "Gérer des dossiers administratifs complexes"], "couleur": "warning" },
+        { "phase": "Expert (10+ ans)", "actions": ["Directeur de cabinet ministériel", "Préfet ou Ambassadeur du Togo", "Secrétaire Général d'un ministère"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Français (rédaction)", "Histoire-Géographie", "Économie", "Droit"],
+      "matieres_details": [
+        {
+          "matiere": "Français",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Rédaction de textes formels", "application": "Rédiger une note de service officielle entre deux ministères qui respecte la hiérarchie protocolaire togolaise." }
+          ]
+        },
+        {
+          "matiere": "Histoire-Géographie",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Institutions de l'État togolais", "application": "Comprendre le rôle de chaque ministère et comment ils interagissent pour servir les citoyens." },
+            { "chapitre": "Géopolitique africaine", "application": "Analyser l'impact des décisions de l'UEMOA et de la CEDEAO sur les politiques publiques togolaises." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_022", "uni_020", "uni_014"]
+    },
+    {
+      "career_id": "car_018",
+      "competences_cles": ["Élaboration d'un business plan viable", "Gestion financière et comptabilité de base", "Marketing et acquisition de clients", "Gestion des ressources humaines", "Résilience face à l'échec et pivotage"],
+      "soft_skills": [
+        { "nom": "Vision & prise de risque", "description": "Voir une opportunité là où les autres voient un problème, et oser y investir.", "emoji": "🚀" },
+        { "nom": "Résilience", "description": "Rebondir après un échec, car la plupart des entrepreneurs connaissent plusieurs tentatives avant de réussir.", "emoji": "💪" },
+        { "nom": "Réseau & networking", "description": "Tisser des liens avec des mentors, investisseurs et partenaires potentiels.", "emoji": "🕸️" },
+        { "nom": "Vente & persuasion", "description": "Convaincre des clients, des investisseurs et des associés de croire en ton projet.", "emoji": "🎤" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Identifier un problème réel dans ton quartier ou ta ville", "Rejoindre des clubs d'entrepreneuriat scolaires", "Lire des biographies d'entrepreneurs africains"], "couleur": "primary" },
+        { "phase": "Formation (3–5 ans)", "actions": ["Licence Gestion/Commerce ou École de Management", "Participer à des concours de business plan", "Lancer un premier micro-projet (vente, service)"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Lancer officiellement sa startup", "Rejoindre un incubateur (Lomé : Espace Senghor, Enabel...)", "Chercher des financements (FNIFI, investisseurs privés)"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Scale-up de l'entreprise au niveau régional", "Lever des fonds auprès de fonds panafricains", "Mentorer la prochaine génération d'entrepreneurs togolais"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Économie", "Gestion", "Mathématiques", "Communication"],
+      "matieres_details": [
+        {
+          "matiere": "Économie / Gestion",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Offre, demande & marchés", "application": "Analyser si ton idée de business (ex: livraison de repas à Lomé) répond à un vrai besoin du marché." },
+            { "chapitre": "Coûts & seuil de rentabilité", "application": "Calculer à partir de combien de clients par mois ton restaurant sera rentable et ne perdra plus d'argent." }
+          ]
+        },
+        {
+          "matiere": "Communication",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Techniques de persuasion & pitch", "application": "Présenter ton projet à des investisseurs en 5 minutes de façon convaincante — exercice clé du Startup Weekend Lomé." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_001", "uni_002", "uni_004", "uni_010", "uni_022"]
+    },
+    {
+      "career_id": "car_019",
+      "competences_cles": ["Pharmacologie et interactions médicamenteuses", "Chimie analytique et contrôle qualité", "Réglementation pharmaceutique (DPM/Ministère Santé)", "Gestion de stock et approvisionnement officinal", "Conseil et éducation thérapeutique du patient"],
+      "soft_skills": [
+        { "nom": "Rigueur absolue", "description": "Un dosage erroné peut tuer — la précision est une question de vie ou de mort.", "emoji": "⚕️" },
+        { "nom": "Pédagogie patient", "description": "Expliquer comment prendre un médicament à des patients qui ne savent parfois pas lire.", "emoji": "🗣️" },
+        { "nom": "Éthique professionnelle", "description": "Refuser de vendre des médicaments sans ordonnance quand c'est interdit.", "emoji": "⚖️" },
+        { "nom": "Organisation", "description": "Gérer des milliers de références de médicaments sans jamais faire de confusion.", "emoji": "🗂️" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en SVT, Chimie et Maths", "Obtenir une très bonne mention au BAC", "Comprendre les enjeux de santé publique au Togo"], "couleur": "primary" },
+        { "phase": "Formation (6 ans)", "actions": ["Diplôme d'État de Pharmacien (Faculté Pharmacie UL)", "Stages en officine (pharmacie de ville) et en hôpital", "Maîtriser la réglementation DPM Togo"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Pharmacien assistant dans une officine", "Pharmacien hospitalier (CHU Sylvanus Olympio)", "Contrôleur qualité dans une industrie pharmaceutique"], "couleur": "warning" },
+        { "phase": "Expert (5+ ans)", "actions": ["Ouvrir sa propre pharmacie officinale", "Créer un grossiste répartiteur pharmaceutique", "Diriger le service pharmaceutique d'un grand hôpital"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["SVT", "Physique-Chimie (avancée)", "Mathématiques", "Sciences naturelles"],
+      "matieres_details": [
+        {
+          "matiere": "Physique-Chimie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Chimie organique & molécules", "application": "Comprendre la structure des molécules actives des médicaments antipaludéens comme l'Artémisinine." },
+            { "chapitre": "Dosage & solutions", "application": "Préparer une solution de réhydratation orale exacte pour un enfant déshydraté." }
+          ]
+        },
+        {
+          "matiere": "SVT",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Pharmacodynamie & récepteurs", "application": "Comprendre pourquoi un antibiotique ne marche pas contre un virus (grippe, COVID) et bien conseiller le patient." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_022"]
+    },
+    {
+      "career_id": "car_020",
+      "competences_cles": ["Maîtrise du français et de l'anglais (indispensable)", "Droit international et organisations multilatérales (UA, ONU)", "Protocole et étiquette diplomatique", "Négociation internationale et médiation", "Rédaction de rapports et notes diplomatiques"],
+      "soft_skills": [
+        { "nom": "Intelligence culturelle", "description": "Comprendre et respecter les codes culturels de pays très différents du Togo.", "emoji": "🌍" },
+        { "nom": "Maîtrise des langues", "description": "Parler au moins 3 langues — français, anglais et idéalement arabe ou portugais.", "emoji": "🗣️" },
+        { "nom": "Diplomatie & tact", "description": "Exprimer des désaccords sans jamais vexer ou offenser ses interlocuteurs.", "emoji": "🕊️" },
+        { "nom": "Représentativité", "description": "Incarner dignement les valeurs et les intérêts de la République Togolaise à l'étranger.", "emoji": "🇹🇬" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en Langues, Histoire et Géo", "Apprendre au moins une 3ème langue", "Suivre l'actualité internationale et les relations Togo-monde"], "couleur": "primary" },
+        { "phase": "Formation (5–7 ans)", "actions": ["Master Relations Internationales ou Science Politique (UL, ENA)", "Stage à l'ONU, UA ou dans une ambassade", "Maîtriser le droit international public"], "couleur": "success" },
+        { "phase": "Débutant (0–5 ans)", "actions": ["Attaché diplomatique à l'Ambassade du Togo", "Collaborateur dans une organisation internationale", "Rédiger des notes et rapports diplomatiques"], "couleur": "warning" },
+        { "phase": "Expert (15+ ans)", "actions": ["Ambassadeur du Togo dans un pays stratégique", "Représentant permanent à l'ONU ou l'UA", "Ministre des Affaires Étrangères"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["Français", "Anglais", "Histoire-Géographie", "Économie", "Philosophie"],
+      "matieres_details": [
+        {
+          "matiere": "Langues (Français & Anglais)",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Rédaction formelle & style diplomatique", "application": "Rédiger un Note Verbale (communication officielle entre ambassades) dans un style impeccable." },
+            { "chapitre": "Anglais des affaires internationales", "application": "Négocier en anglais lors d'une session de l'Assemblée Générale de l'ONU à New York." }
+          ]
+        },
+        {
+          "matiere": "Histoire-Géographie",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Géopolitique mondiale & relations internationales", "application": "Comprendre les enjeux derrière les tensions entre grandes puissances pour positionner le Togo stratégiquement." },
+            { "chapitre": "Histoire coloniale & postcoloniale africaine", "application": "Négocier des accords de coopération équilibrés en évitant les pièges néocoloniaux." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_022", "uni_020", "uni_014", "uni_008"]
+    },
+    {
+      "career_id": "car_003",
+      "competences_cles": ["Techniques de soins infirmiers (pansements, injections, perfusions)", "Empathie et écoute active des patients", "Gestion du stress et réactivité en urgence", "Hygiène et prévention des infections", "Connaissances en pharmacologie de base"],
+      "soft_skills": [
+        { "nom": "Empathie", "description": "Accompagner des patients vulnérables avec douceur et bienveillance.", "emoji": "❤️" },
+        { "nom": "Sang-froid", "description": "Agir calmement et efficacement lors des urgences médicales.", "emoji": "🧊" },
+        { "nom": "Travail en équipe", "description": "Collaborer harmonieusement avec les médecins et les autres soignants.", "emoji": "🤝" },
+        { "nom": "Hygiène irréprochable", "description": "Respecter strictement les protocoles pour éviter les infections nosocomiales.", "emoji": "🧼" }
+      ],
+      "etapes_carriere": [
+        { "phase": "Lycée (2–3 ans)", "actions": ["Exceller en SVT et Physique-Chimie", "Faire du bénévolat dans un centre de santé", "Développer l'empathie et l'écoute"], "couleur": "primary" },
+        { "phase": "Formation (3 ans)", "actions": ["Diplôme d'État Infirmier (DEI - 3 ans)", "Stage clinique en CHU et dans des dispensaires", "Spécialisation (pédiatrie, urgences, bloc opératoire)"], "couleur": "success" },
+        { "phase": "Débutant (0–3 ans)", "actions": ["Infirmier(e) en hôpital public ou clinique privée", "Travailler avec des ONG médicales (MSF, Croix-Rouge)", "S'installer en cabinet de soins"], "couleur": "warning" },
+        { "phase": "Expert (10+ ans)", "actions": ["Infirmier(e) Chef de service", "Cadre de santé ou directeur des soins", "Former les futurs infirmiers à l'ENS santé"], "couleur": "info" }
+      ],
+      "matieres_importantes": ["SVT (Sciences de la Vie et de la Terre)", "Physique-Chimie", "Mathématiques"],
+      "matieres_details": [
+        {
+          "matiere": "SVT",
+          "priorite": "Indispensable",
+          "chapitres": [
+            { "chapitre": "Anatomie & physiologie humaine", "application": "Localiser précisément une veine pour réaliser une prise de sang ou poser une perfusion sans erreur." },
+            { "chapitre": "Microbiologie & infections", "application": "Comprendre comment se propage le choléra lors des épidémies au Togo et appliquer les protocoles de prévention." }
+          ]
+        },
+        {
+          "matiere": "Physique-Chimie",
+          "priorite": "Très important",
+          "chapitres": [
+            { "chapitre": "Dosage des solutions", "application": "Préparer une solution de perfusion au bon dosage pour un patient adulte de 70kg." }
+          ]
+        }
+      ],
+      "related_universities": ["uni_017", "uni_015", "uni_022"]
+    }
+  ]
+}

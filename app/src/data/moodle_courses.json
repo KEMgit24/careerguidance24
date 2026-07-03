@@ -1,0 +1,519 @@
+{
+  "classes": {
+    "Seconde A4": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Equité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et technologie (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Valeurs culturelles (Cultural Values)"
+      ],
+      "Allemand": [
+        "Identité et coutumes (Identität und Bräuche)",
+        "In der Schule (À l'école)",
+        "Herzlichen Glückwunsch! (Fêtes invitations vœux)",
+        "Essgewohnheiten",
+        "Gesundheit",
+        "Leben in der Stadt – Leben im Dorf (Ville et campagne)",
+        "Clubs in der Schule (Les clubs culturels à l'école)"
+      ],
+      "ECM": [
+        "LYCEE",
+        "DECENTRALISATION AU TOGO",
+        "DEVELOPPEMENT DURABLE SANTE ET BIEN ETRE",
+        "JEUNESSE ET SOCIETE"
+      ],
+      "Espagnol": [
+        "La vie scolaire",
+        "La vie familiale",
+        "Les relations sociales",
+        "La ville et le centre commercial",
+        "L'environnement",
+        "Jeux sports et loisirs",
+        "Vacances et voyages"
+      ],
+      "Français": [
+        "L'homme et son environnement",
+        "Sagesse et humanisme africains",
+        "Arts et loisirs",
+        "Le triomphe de l'esprit critique",
+        "Sciences et technologie",
+        "La santé",
+        "La société française et européenne vue par elle-même autour de 1750",
+        "Arts et loisirs semaine",
+        "Les mutations de la société africaine",
+        "Liberté et assujettissement",
+        "Les Migrations"
+      ],
+      "Histoire-Géographie": [
+        "La géographie : une science de l'organisation de l'espace",
+        "L'homme et son milieu au Togo",
+        "Société et développement durable",
+        "I – Introduction à l'étude et à la méthodologie de l'histoire africaine",
+        "II – Préhistoire en Afrique et au Togo",
+        "III – L'Afrique et le Togo : de l'Antiquité au XIXe siècle"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Organisation des données",
+        "Analyse"
+      ],
+      "Physique-Chimie": [
+        "Electricité",
+        "La matière et ses transformations",
+        "Mécanique",
+        "Solutions aqueuses ioniques et qualité de l'eau"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "Gestion durable de l'environnement",
+        "Nutrition des plantes vertes",
+        "Sols et géologie historique"
+      ]
+    },
+    "Seconde C & D": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Equité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et technologie (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Valeurs culturelles (Cultural Values)"
+      ],
+      "ECM": [
+        "LYCEE",
+        "DECENTRALISATION AU TOGO",
+        "DEVELOPPEMENT DURABLE SANTE ET BIEN ETRE",
+        "JEUNESSE ET SOCIETE"
+      ],
+      "Français": [
+        "L'homme et son environnement",
+        "Sagesse et humanisme africains",
+        "Arts et loisirs",
+        "Le triomphe de l'esprit critique",
+        "Sciences et technologie",
+        "La santé",
+        "La société française et européenne vue par elle-même autour de 1750",
+        "Arts et loisirs semaine",
+        "Les mutations de la société africaine",
+        "Liberté et assujettissement",
+        "Les Migrations"
+      ],
+      "Histoire-Géographie": [
+        "La géographie : une science de l'organisation de l'espace",
+        "L'homme et son milieu au Togo",
+        "Société et développement durable",
+        "I – Introduction à l'étude et à la méthodologie de l'histoire africaine",
+        "II – Préhistoire en Afrique et au Togo",
+        "III – L'Afrique et le Togo : de l'Antiquité au XIXe siècle"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Organisation des données",
+        "Analyse"
+      ],
+      "Physique-Chimie": [
+        "Electricité",
+        "La matière et ses transformations",
+        "Mécanique",
+        "Solutions aqueuses ioniques et qualité de l'eau"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "Gestion durable de l'environnement",
+        "Nutrition des plantes vertes",
+        "Sols et géologie historique"
+      ]
+    },
+    "Première A4": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Équité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et Technologies (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Le tourisme et les valeurs culturelles (Tourism and Cultural Values)"
+      ],
+      "Allemand": [
+        "Reisen – Kleidung",
+        "Verkehrsmittel – Tourismus",
+        "Klima – Wetter",
+        "Familie Familienleben Familienform",
+        "In der Stadt – auf dem Lande",
+        "Jugend-Freizeit Hobby",
+        "Jugend-Freizeit Hobbys (suite)"
+      ],
+      "ECM": [
+        "Citoyenneté",
+        "Démocratie Genre et Développement",
+        "Droits humains"
+      ],
+      "Espagnol": [
+        "L'environnement",
+        "Les moyens de communication",
+        "Le tourisme et les moyens de transport",
+        "Les maladies",
+        "Le sport",
+        "La migration"
+      ],
+      "Français": [
+        "Science et Technologie",
+        "Les mutations de la société africaine et les migrations",
+        "Paix et sécurité dans le monde",
+        "Écriture et société"
+      ],
+      "Histoire-Géographie": [
+        "Les poussées impérialistes et les résistances en Afrique",
+        "Collaboration et résistance des peuples et des souverains du Togo à l'invasion coloniale",
+        "Les statuts internationaux du Togo colonial et leurs implications",
+        "Mouvements de la population",
+        "Croissance urbaine, un enjeu géographique majeur",
+        "Facteurs de l'émergence économique en Afrique et au Togo"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Analyse",
+        "Organisation des données"
+      ],
+      "Physique-Chimie": [
+        "Énergie",
+        "Optique",
+        "Chimie minérale et générale"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "La matière des êtres vivants",
+        "La cellule",
+        "La nutrition des animaux et de l'homme"
+      ]
+    },
+    "Première C": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Équité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et Technologies (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Le tourisme et les valeurs culturelles (Tourism and Cultural Values)"
+      ],
+      "ECM": [
+        "Citoyenneté",
+        "Démocratie Genre et Développement",
+        "Droits humains"
+      ],
+      "Français": [
+        "Science et Technologie",
+        "Les mutations de la société africaine et les migrations",
+        "Paix et sécurité dans le monde",
+        "Écriture et société"
+      ],
+      "Histoire-Géographie": [
+        "Les poussées impérialistes et les résistances en Afrique",
+        "Collaboration et résistance des peuples et des souverains du Togo à l'invasion coloniale",
+        "Les statuts internationaux du Togo colonial et leurs implications",
+        "Mouvements de la population",
+        "Croissance urbaine, un enjeu géographique majeur",
+        "Facteurs de l'émergence économique en Afrique et au Togo"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Géométrie du plan",
+        "Analyse",
+        "Trigonométrie",
+        "Organisation des données",
+        "Applications du plan",
+        "Géométrie de l'espace",
+        "Arithmétique"
+      ],
+      "Physique-Chimie": [
+        "Mécanique",
+        "Électricité",
+        "Optique",
+        "Chimie organique",
+        "Chimie minérale"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "La matière des êtres vivants",
+        "La cellule",
+        "La nutrition des animaux et de l'homme"
+      ]
+    },
+    "Première D": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Équité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et Technologies (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Le tourisme et les valeurs culturelles (Tourism and Cultural Values)"
+      ],
+      "ECM": [
+        "Citoyenneté",
+        "Démocratie Genre et Développement",
+        "Droits humains"
+      ],
+      "Français": [
+        "Science et Technologie",
+        "Les mutations de la société africaine et les migrations",
+        "Paix et sécurité dans le monde",
+        "Écriture et société"
+      ],
+      "Histoire-Géographie": [
+        "Les poussées impérialistes et les résistances en Afrique",
+        "Collaboration et résistance des peuples et des souverains du Togo à l'invasion coloniale",
+        "Les statuts internationaux du Togo colonial et leurs implications",
+        "Mouvements de la population",
+        "Croissance urbaine, un enjeu géographique majeur",
+        "Facteurs de l'émergence économique en Afrique et au Togo"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Analyse",
+        "Trigonométrie",
+        "Géométrie du plan",
+        "Géométrie de l'espace",
+        "Applications du plan",
+        "Organisation des données"
+      ],
+      "Physique-Chimie": [
+        "Mécanique",
+        "Électricité",
+        "Optique",
+        "Chimie organique",
+        "Chimie minérale"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "La géologie",
+        "La matière des êtres vivants",
+        "La cellule",
+        "La nutrition des animaux et de l'homme"
+      ]
+    },
+    "Terminale A4": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Equité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et technologies (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Le tourisme et les valeurs culturelles (Tourism and Cultural Values)"
+      ],
+      "Allemand": [
+        "Reisen – Kleidung",
+        "Verkehrsmittel – Tourismus",
+        "Klima – Wetter",
+        "Familie Familienleben Familienform",
+        "In der Stadt – auf dem Lande",
+        "Jugend-Freizeit Hobby",
+        "Jugend-Freizeit Hobbys (suite)"
+      ],
+      "ECM": [
+        "Citoyenneté",
+        "Démocratie Genre et Développement",
+        "Droits Humains",
+        "Génocides et violences de masse",
+        "Décentralisation au Togo",
+        "Développement durable, Santé et Bien-être"
+      ],
+      "Espagnol": [
+        "L'environnement",
+        "Les moyens de communication",
+        "Le tourisme et les moyens de transport",
+        "Les maladies",
+        "Le sport",
+        "La migration"
+      ],
+      "Français": [
+        "Science et Technologie",
+        "Les mutations de la société africaine et les migrations",
+        "Paix et sécurité dans le monde",
+        "Écriture et Société"
+      ],
+      "Histoire-Géographie": [
+        "Les poussées impérialistes et les résistances en Afrique",
+        "Collaboration et résistance des peuples et des souverains du Togo à l'invasion coloniale",
+        "Les statuts internationaux du Togo colonial et leurs implications",
+        "Mouvements de population",
+        "Croissance urbaine, un enjeu géographique majeur",
+        "Facteurs de l'émergence économique en Afrique et au Togo"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Analyse",
+        "Organisation des données"
+      ],
+      "Physique-Chimie": [
+        "Énergie",
+        "Optique",
+        "Chimie minérale et générale"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "La matière des êtres vivants",
+        "La cellule",
+        "La nutrition des animaux et de l'homme"
+      ]
+    },
+    "Terminale C": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Equité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et technologies (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Le tourisme et les valeurs culturelles (Tourism and Cultural Values)"
+      ],
+      "ECM": [
+        "Citoyenneté",
+        "Démocratie Genre et Développement",
+        "Droits humains",
+        "Génocides et violences de masse",
+        "Décentralisation au Togo",
+        "Développement durable, santé et bien-être"
+      ],
+      "Français": [
+        "Science et Technologie",
+        "Les mutations de la société africaine et les migrations",
+        "Paix et sécurité dans le monde",
+        "Écriture et Société"
+      ],
+      "Histoire-Géographie": [
+        "Les poussées impérialistes et les résistances en Afrique",
+        "Collaboration et résistance des peuples et des souverains du Togo à l'invasion coloniale",
+        "Les statuts internationaux du Togo colonial et leurs implications",
+        "Mouvements de population",
+        "Croissance urbaine, un enjeu géographique majeur",
+        "Facteurs de l'émergence économique en Afrique et au Togo"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Géométrie du plan",
+        "Analyse",
+        "Trigonométrie",
+        "Organisation des données",
+        "Applications du plan",
+        "Géométrie de l'espace",
+        "Arithmétique"
+      ],
+      "Physique-Chimie": [
+        "Mécanique",
+        "Électricité",
+        "Optique",
+        "Chimie organique",
+        "Chimie minérale"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "La matière des êtres vivants",
+        "La cellule",
+        "La nutrition des animaux et de l'homme"
+      ]
+    },
+    "Terminale D": {
+      "Anglais": [
+        "La Gouvernance (Governance)",
+        "Equité genre (Gender Equity)",
+        "L'environnement (The Environment)",
+        "Sciences et technologies (Science and Technology)",
+        "Citoyenneté et patriotisme (Citizenship and Patriotism)",
+        "Injustice sociale (Social Injustice)",
+        "Le tourisme et les valeurs culturelles (Tourism and Cultural Values)"
+      ],
+      "ECM": [
+        "Citoyenneté",
+        "Démocratie Genre et Développement",
+        "Droits humains",
+        "Génocides et violences de masse",
+        "Décentralisation au Togo",
+        "Développement durable, santé et bien-être"
+      ],
+      "Français": [
+        "Science et Technologie",
+        "Les mutations de la société africaine et les migrations",
+        "Paix et sécurité dans le monde",
+        "Écriture et Société"
+      ],
+      "Histoire-Géographie": [
+        "Les poussées impérialistes et les résistances en Afrique",
+        "Collaboration et résistance des peuples et des souverains du Togo à l'invasion coloniale",
+        "Les statuts internationaux du Togo colonial et leurs implications",
+        "Mouvements de population",
+        "Croissance urbaine, un enjeu géographique majeur",
+        "Facteurs de l'émergence économique en Afrique et au Togo"
+      ],
+      "Mathématiques": [
+        "Calculs algébriques",
+        "Analyse",
+        "Trigonométrie",
+        "Géométrie du plan",
+        "Géométrie de l'espace",
+        "Applications du plan",
+        "Organisation des données"
+      ],
+      "Physique-Chimie": [
+        "Mécanique",
+        "Électricité",
+        "Optique",
+        "Chimie organique",
+        "Chimie minérale"
+      ],
+      "Philosophie": [
+        "L'homme et le monde",
+        "Les méthodologies",
+        "La connaissance et la raison",
+        "La pratique et les fins"
+      ],
+      "SVT": [
+        "La géologie",
+        "La matière des êtres vivants",
+        "La cellule",
+        "La nutrition des animaux et de l'homme"
+      ]
+    }
+  }
+}

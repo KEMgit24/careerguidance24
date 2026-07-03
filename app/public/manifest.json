@@ -1,0 +1,53 @@
+{
+  "name": "Career Guidance",
+  "short_name": "CareerGuide",
+  "description": "Ton conseiller de carrière intelligent pour le Togo — découvres les métiers qui te correspondent et trace ton parcours vers le succès.",
+  "start_url": "https://026-zero-day-two.vercel.app",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f1210",
+  "theme_color": "#1a6b4a",
+  "orientation": "any",
+  "id": "com.careerguide.togo",
+  "lang": "fr",
+  "categories": ["developer", "education", "fitness", "lifestyle", "personalization"],
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/bg1.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Career Guidance — Accueil"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Mes recommandations",
+      "short_name": "Recommandations",
+      "description": "Voir mes recommandations de carrière",
+      "url": "/recommendations",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Parler à Iki",
+      "short_name": "Iki",
+      "description": "Discuter avec mon conseiller IA",
+      "url": "/chatbot",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}

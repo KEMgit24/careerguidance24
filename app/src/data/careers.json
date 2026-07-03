@@ -1,0 +1,1920 @@
+{
+  "careers": [
+    {
+      "id": "car_007",
+      "nom_metier": "Médecin généraliste",
+      "secteur": "Santé & Médecine",
+      "description": "Diagnostique et traite les pathologies courantes, et oriente vers des spécialistes si besoin.",
+      "salaire": "250 000 à 400 000 FCFA/mois (marché togolais)",
+      "formation": "9 à 10 ans d'études (médecine + internat)",
+      "competences_techniques": [
+        "diagnostic clinique",
+        "prescription",
+        "gestes médicaux de base",
+        "dossier patient"
+      ],
+      "soft_skills": [
+        "écoute",
+        "empathie",
+        "gestion du stress",
+        "prise de décision rapide"
+      ],
+      "perspectives": "forte demande, surtout en zones rurales et dans les structures privées",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Psychologie",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie",
+        "Physique"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Communication"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "Cadre structuré",
+        "En bureau"
+      ]
+    },
+    {
+      "id": "car_017",
+      "nom_metier": "Médecin spécialiste",
+      "secteur": "Santé & Médecine",
+      "description": "Expertise approfondie dans un domaine médical précis (chirurgie, radiologie, anesthésie...).",
+      "salaire": "400 000 à 600 000 FCFA/mois (marché togolais)",
+      "formation": "10 à 12 ans (médecine + spécialisation)",
+      "competences_techniques": [
+        "expertise pointue",
+        "maîtrise d'équipements spécialisés",
+        "gestes spécialisés"
+      ],
+      "soft_skills": [
+        "précision",
+        "sang-froid",
+        "leadership",
+        "pédagogie envers les patients"
+      ],
+      "perspectives": "très bonnes, surtout en chirurgie, radiologie et anesthésie",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie",
+        "Physique",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Communication"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_021",
+      "nom_metier": "Dentiste / Chirurgien-dentiste",
+      "secteur": "Santé & Médecine",
+      "description": "Soins des dents, gencives et mâchoires.",
+      "salaire": "250 000 à 600 000 FCFA/mois (marché togolais)",
+      "formation": "6 ans d'études dentaires",
+      "competences_techniques": [
+        "soins bucco-dentaires",
+        "prothèses",
+        "radiologie dentaire"
+      ],
+      "soft_skills": [
+        "minutie",
+        "capacité à rassurer les patients anxieux",
+        "empathie"
+      ],
+      "perspectives": "bonnes, demande stable",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Psychologie"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie"
+      ],
+      "match_competences": [
+        "Empathie",
+        "Résolution de problèmes",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Cadre structuré",
+        "En bureau"
+      ]
+    },
+    {
+      "id": "car_019",
+      "nom_metier": "Pharmacien(ne)",
+      "secteur": "Santé & Médecine",
+      "description": "Délivre des médicaments, conseille les patients et peut gérer une officine.",
+      "salaire": "350 000 à 900 000 FCFA/mois (marché togolais)",
+      "formation": "6 ans d'études de pharmacie",
+      "competences_techniques": [
+        "pharmacologie",
+        "gestion des stocks",
+        "réglementation"
+      ],
+      "soft_skills": [
+        "rigueur",
+        "sens du conseil",
+        "discrétion"
+      ],
+      "perspectives": "stables, avec des débouchés en officine, industrie et distribution",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Entrepreneuriat"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie",
+        "Physique"
+      ],
+      "match_competences": [
+        "Organisation",
+        "Communication",
+        "Résolution de problèmes"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Cadre structuré",
+        "En bureau"
+      ]
+    },
+    {
+      "id": "car_022",
+      "nom_metier": "Kinésithérapeute",
+      "secteur": "Santé & Médecine",
+      "description": "Rééducation fonctionnelle et traitement des troubles musculo-squelettiques.",
+      "salaire": "250 000 à 500 000 FCFA/mois (marché togolais)",
+      "formation": "5 ans",
+      "competences_techniques": [
+        "techniques manuelles",
+        "rééducation",
+        "bilan fonctionnel"
+      ],
+      "soft_skills": [
+        "patience",
+        "sens du contact",
+        "pédagogie"
+      ],
+      "perspectives": "bonnes, demande croissante",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Sport & Fitness",
+        "Psychologie"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Physique"
+      ],
+      "match_competences": [
+        "Empathie",
+        "Communication",
+        "Travail en équipe"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "En bureau",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_023",
+      "nom_metier": "Psychologue",
+      "secteur": "Santé & Médecine",
+      "description": "Évalue et accompagne les troubles psychiques et émotionnels.",
+      "salaire": "150 000 à 450 000 FCFA/mois (marché togolais)",
+      "formation": "5 ans (Master en psychologie)",
+      "competences_techniques": [
+        "tests psychométriques",
+        "entretiens",
+        "rédaction de bilans"
+      ],
+      "soft_skills": [
+        "écoute active",
+        "empathie",
+        "neutralité bienveillante"
+      ],
+      "perspectives": "en croissance, notamment dans les écoles, ONG et cliniques",
+      "match_interets": [
+        "Psychologie",
+        "Sciences & Recherche",
+        "Lecture"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Philosophie",
+        "Sciences Sociales"
+      ],
+      "match_competences": [
+        "Empathie",
+        "Communication",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "En bureau",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_003",
+      "nom_metier": "Infirmier(ère)",
+      "secteur": "Santé & Médecine",
+      "description": "Soins aux patients, administration des traitements et suivi médical.",
+      "salaire": "120 000 à 300 000 FCFA/mois (marché togolais)",
+      "formation": "3 ans",
+      "competences_techniques": [
+        "actes infirmiers",
+        "perfusion",
+        "surveillance clinique"
+      ],
+      "soft_skills": [
+        "résistance au stress",
+        "empathie",
+        "travail d'équipe"
+      ],
+      "perspectives": "très forte demande",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Psychologie"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie"
+      ],
+      "match_competences": [
+        "Empathie",
+        "Travail en équipe",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "Cadre structuré",
+        "Environnement dynamique/rapide"
+      ]
+    },
+    {
+      "id": "car_024",
+      "nom_metier": "Vétérinaire",
+      "secteur": "Santé & Médecine",
+      "description": "Soigne les animaux, prévention et chirurgie.",
+      "salaire": "350 000 à 900 000 FCFA/mois (marché togolais)",
+      "formation": "6 à 8 ans",
+      "competences_techniques": [
+        "diagnostic animalier",
+        "chirurgie",
+        "pharmacologie vétérinaire"
+      ],
+      "soft_skills": [
+        "empathie",
+        "sang-froid",
+        "rigueur"
+      ],
+      "perspectives": "bonnes, surtout en zones rurales",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie",
+        "Physique"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Empathie",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "En plein air",
+        "En bureau"
+      ]
+    },
+    {
+      "id": "car_025",
+      "nom_metier": "Assistant(e) social(e)",
+      "secteur": "Santé & Médecine",
+      "description": "Accompagne les personnes en difficulté sociale, financière ou familiale.",
+      "salaire": "120 000 à 300 000 FCFA/mois (marché togolais)",
+      "formation": "3 ans",
+      "competences_techniques": [
+        "connaissance des dispositifs sociaux",
+        "rédaction de dossiers"
+      ],
+      "soft_skills": [
+        "écoute",
+        "neutralité",
+        "résistance émotionnelle"
+      ],
+      "perspectives": "stables, forte utilité sociale",
+      "match_interets": [
+        "Psychologie",
+        "Lecture"
+      ],
+      "match_matieres": [
+        "Sciences Sociales",
+        "Philosophie",
+        "Histoire"
+      ],
+      "match_competences": [
+        "Empathie",
+        "Communication",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "Cadre structuré",
+        "En bureau"
+      ]
+    },
+    {
+      "id": "car_026",
+      "nom_metier": "Développeur(euse) front-end",
+      "secteur": "Numérique & Informatique",
+      "description": "Conçoit l'interface visuelle et interactive des sites et applications web.",
+      "salaire": "150 000 à 450 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+2 à Bac+5 (autodidacte possible)",
+      "competences_techniques": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React/Vue/Angular"
+      ],
+      "soft_skills": [
+        "créativité",
+        "sens du détail",
+        "veille technologique"
+      ],
+      "perspectives": "excellentes, forte demande",
+      "match_interets": [
+        "Technologie & Informatique",
+        "Programmation",
+        "Innovation technologique",
+        "Résolution de problèmes",
+        "Développement de jeux vidéo"
+      ],
+      "match_matieres": [
+        "Informatique",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Créativité",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En télétravail",
+        "En autonomie",
+        "Horaires flexibles"
+      ]
+    },
+    {
+      "id": "car_027",
+      "nom_metier": "Développeur(euse) back-end",
+      "secteur": "Numérique & Informatique",
+      "description": "Construit la logique serveur et les bases de données des applications.",
+      "salaire": "250 000 à 700 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+2 à Bac+5",
+      "competences_techniques": [
+        "Node.js",
+        "Python",
+        "Java",
+        "PHP",
+        "SQL/NoSQL",
+        "API REST"
+      ],
+      "soft_skills": [
+        "résolution de problèmes",
+        "logique",
+        "rigueur"
+      ],
+      "perspectives": "excellentes",
+      "match_interets": [
+        "Programmation",
+        "Technologie & Informatique",
+        "Innovation technologique",
+        "Résolution de problèmes"
+      ],
+      "match_matieres": [
+        "Informatique",
+        "Mathématiques",
+        "Physique"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En télétravail",
+        "En autonomie"
+      ]
+    },
+    {
+      "id": "car_001",
+      "nom_metier": "Développeur(euse) full-stack",
+      "secteur": "Numérique & Informatique",
+      "description": "Maîtrise à la fois le front-end et le back-end des applications web.",
+      "salaire": "300 000 à 800 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+3 à Bac+5",
+      "competences_techniques": [
+        "large palette de langages et frameworks web"
+      ],
+      "soft_skills": [
+        "polyvalence",
+        "autonomie",
+        "gestion du temps"
+      ],
+      "perspectives": "très recherché",
+      "match_interets": [
+        "Programmation",
+        "Technologie & Informatique",
+        "Innovation technologique",
+        "Résolution de problèmes",
+        "Développement de jeux vidéo"
+      ],
+      "match_matieres": [
+        "Informatique",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Adaptabilité",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En télétravail",
+        "En autonomie",
+        "Horaires flexibles"
+      ]
+    },
+    {
+      "id": "car_028",
+      "nom_metier": "Expert(e) en cybersécurité",
+      "secteur": "Numérique & Informatique",
+      "description": "Protège les systèmes informatiques contre les menaces et cyberattaques.",
+      "salaire": "400 000 à 1 200 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5, certifications (CEH, CISSP)",
+      "competences_techniques": [
+        "audit de sécurité",
+        "pentest",
+        "cryptographie",
+        "gestion d'incidents"
+      ],
+      "soft_skills": [
+        "vigilance",
+        "esprit analytique",
+        "éthique"
+      ],
+      "perspectives": "extrêmement fortes, pénurie mondiale de talents",
+      "match_interets": [
+        "Technologie & Informatique",
+        "Programmation",
+        "Innovation technologique",
+        "Résolution de problèmes",
+        "Échecs & Stratégie"
+      ],
+      "match_matieres": [
+        "Informatique",
+        "Mathématiques",
+        "Physique"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En télétravail",
+        "En autonomie"
+      ]
+    },
+    {
+      "id": "car_011",
+      "nom_metier": "Data scientist",
+      "secteur": "Numérique & Informatique",
+      "description": "Analyse de données complexes pour en extraire des insights et modèles prédictifs.",
+      "salaire": "400 000 à 1 000 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 à Bac+8",
+      "competences_techniques": [
+        "Python/R",
+        "machine learning",
+        "SQL",
+        "statistiques"
+      ],
+      "soft_skills": [
+        "curiosité",
+        "communication de résultats",
+        "esprit critique"
+      ],
+      "perspectives": "excellentes",
+      "match_interets": [
+        "Technologie & Informatique",
+        "Sciences & Recherche",
+        "Veille scientifique et technologique",
+        "Innovation technologique"
+      ],
+      "match_matieres": [
+        "Mathématiques",
+        "Informatique",
+        "Physique"
+      ],
+      "match_competences": [
+        "Analyse de données",
+        "Résolution de problèmes",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En télétravail",
+        "En autonomie"
+      ]
+    },
+    {
+      "id": "car_029",
+      "nom_metier": "Ingénieur(e) en intelligence artificielle",
+      "secteur": "Numérique & Informatique",
+      "description": "Conçoit des modèles d'IA et algorithmes d'apprentissage automatique.",
+      "salaire": "600 000 à 1 800 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 à Bac+8",
+      "competences_techniques": [
+        "deep learning",
+        "TensorFlow",
+        "PyTorch",
+        "mathématiques avancées"
+      ],
+      "soft_skills": [
+        "innovation",
+        "rigueur scientifique",
+        "collaboration"
+      ],
+      "perspectives": "en très forte croissance",
+      "match_interets": [
+        "Technologie & Informatique",
+        "Innovation technologique",
+        "Programmation",
+        "Sciences & Recherche",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "Mathématiques",
+        "Informatique",
+        "Physique"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Créativité"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En télétravail",
+        "En autonomie",
+        "En équipe"
+      ]
+    },
+    {
+      "id": "car_030",
+      "nom_metier": "Designer UX/UI",
+      "secteur": "Numérique & Informatique",
+      "description": "Conçoit l'expérience et l'interface utilisateur de produits numériques.",
+      "salaire": "200 000 à 600 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+3 à Bac+5",
+      "competences_techniques": [
+        "Figma",
+        "recherche utilisateur",
+        "prototypage",
+        "design systems"
+      ],
+      "soft_skills": [
+        "empathie",
+        "créativité",
+        "communication"
+      ],
+      "perspectives": "très bonnes",
+      "match_interets": [
+        "Technologie & Informatique",
+        "Innovation technologique",
+        "Création de contenu",
+        "Photographie (technologie, voyages, créativité)"
+      ],
+      "match_matieres": [
+        "Informatique",
+        "Sciences Sociales"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Empathie",
+        "Communication"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En télétravail",
+        "Horaires flexibles"
+      ]
+    },
+    {
+      "id": "car_008",
+      "nom_metier": "Ingénieur(e) civil / BTP",
+      "secteur": "Ingénierie & Sciences",
+      "description": "Conception et supervision de la construction d'infrastructures.",
+      "salaire": "300 000 à 700 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5",
+      "competences_techniques": [
+        "CAO/BIM",
+        "calcul de structures",
+        "normes du bâtiment"
+      ],
+      "soft_skills": [
+        "gestion de projet",
+        "leadership",
+        "rigueur"
+      ],
+      "perspectives": "bonnes, demande liée aux infrastructures",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Ingénierie",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "Physique",
+        "Mathématiques",
+        "Chimie"
+      ],
+      "match_competences": [
+        "Analyse de données",
+        "Résolution de problèmes",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "En bureau",
+        "En plein air"
+      ]
+    },
+    {
+      "id": "car_031",
+      "nom_metier": "Ingénieur(e) mécanique",
+      "secteur": "Ingénierie & Sciences",
+      "description": "Conçoit des systèmes mécaniques, machines et équipements industriels.",
+      "salaire": "300 000 à 800 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5",
+      "competences_techniques": [
+        "CAO",
+        "simulation",
+        "thermodynamique",
+        "mécanique des fluides"
+      ],
+      "soft_skills": [
+        "esprit d'analyse",
+        "travail en équipe",
+        "rigueur"
+      ],
+      "perspectives": "stables",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Ingénierie",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "Physique",
+        "Mathématiques",
+        "Chimie"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Travail en équipe"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "En bureau",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_004",
+      "nom_metier": "Ingénieur(e) électrique / électronique",
+      "secteur": "Ingénierie & Sciences",
+      "description": "Conçoit des systèmes électriques et électroniques.",
+      "salaire": "300 000 à 800 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5",
+      "competences_techniques": [
+        "circuits électroniques",
+        "automatisme",
+        "normes électriques"
+      ],
+      "soft_skills": [
+        "précision",
+        "sens du devoir",
+        "rigueur"
+      ],
+      "perspectives": "bonnes, liées à l'énergie et à l'industrie",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Ingénierie",
+        "Technologie & Informatique"
+      ],
+      "match_matieres": [
+        "Physique",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En équipe",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_032",
+      "nom_metier": "Spécialiste en énergies renouvelables",
+      "secteur": "Ingénierie & Sciences",
+      "description": "Conçoit et développe des projets solaires, éoliens et hydrauliques.",
+      "salaire": "300 000 à 800 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 (ingénieur)",
+      "competences_techniques": [
+        "ingénierie énergétique",
+        "gestion de projet",
+        "réglementation"
+      ],
+      "soft_skills": [
+        "innovation",
+        "rigueur",
+        "communication"
+      ],
+      "perspectives": "excellentes, secteur en forte croissance",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Ingénierie",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "Physique",
+        "Mathématiques",
+        "Chimie"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Analyse de données",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En plein air",
+        "En bureau",
+        "En équipe"
+      ]
+    },
+    {
+      "id": "car_033",
+      "nom_metier": "Biologiste / Microbiologiste",
+      "secteur": "Ingénierie & Sciences",
+      "description": "Étudie les organismes vivants en laboratoire ou sur le terrain.",
+      "salaire": "220 000 à 450 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 à Bac+8",
+      "competences_techniques": [
+        "techniques de laboratoire",
+        "analyse de données biologiques"
+      ],
+      "soft_skills": [
+        "rigueur scientifique",
+        "patience",
+        "curiosité"
+      ],
+      "perspectives": "correctes",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie",
+        "Physique"
+      ],
+      "match_competences": [
+        "Analyse de données",
+        "Organisation",
+        "Résolution de problèmes"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En autonomie",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_034",
+      "nom_metier": "Mathématicien(ne) / Statisticien(ne)",
+      "secteur": "Ingénierie & Sciences",
+      "description": "Modélisation mathématique appliquée à la finance, à la data et à la recherche.",
+      "salaire": "350 000 à 900 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 à Bac+8",
+      "competences_techniques": [
+        "statistiques avancées",
+        "Python",
+        "R",
+        "modélisation"
+      ],
+      "soft_skills": [
+        "rigueur logique",
+        "communication de résultats complexes"
+      ],
+      "perspectives": "excellentes",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Veille scientifique et technologique",
+        "Échecs & Stratégie"
+      ],
+      "match_matieres": [
+        "Mathématiques",
+        "Physique",
+        "Informatique"
+      ],
+      "match_competences": [
+        "Analyse de données",
+        "Résolution de problèmes",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "En bureau",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_006",
+      "nom_metier": "Comptable / Expert-comptable",
+      "secteur": "Finance & Business",
+      "description": "Tient et contrôle les comptes d'une entreprise, conseille sur la fiscalité.",
+      "salaire": "120 000 à 1 500 000 FCFA/mois (marché togolais) selon le niveau",
+      "formation": "Bac+2 à Bac+8 (BTS, DCG, DSCG, DEC)",
+      "competences_techniques": [
+        "logiciels comptables",
+        "fiscalité OHADA",
+        "audit",
+        "Excel avancé"
+      ],
+      "soft_skills": [
+        "rigueur",
+        "organisation",
+        "discrétion"
+      ],
+      "perspectives": "stables, demande régulière dans les entreprises, ONG et cabinets",
+      "match_interets": [
+        "Entrepreneuriat",
+        "Résolution de problèmes",
+        "Productivité"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Organisation",
+        "Analyse de données",
+        "Résolution de problèmes"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "Cadre structuré",
+        "En autonomie"
+      ]
+    },
+    {
+      "id": "car_015",
+      "nom_metier": "Analyste financier(ère)",
+      "secteur": "Finance & Business",
+      "description": "Évalue la performance financière et conseille sur les investissements.",
+      "salaire": "250 000 à 700 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 (finance, gestion, école de commerce)",
+      "competences_techniques": [
+        "modélisation financière",
+        "Excel avancé",
+        "analyse de marché"
+      ],
+      "soft_skills": [
+        "esprit critique",
+        "résistance au stress",
+        "communication"
+      ],
+      "perspectives": "bonnes, secteur compétitif",
+      "match_interets": [
+        "Entrepreneuriat",
+        "Résolution de problèmes",
+        "Échecs & Stratégie"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Analyse de données",
+        "Résolution de problèmes",
+        "Communication"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "Environnement dynamique/rapide",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_018",
+      "nom_metier": "Entrepreneur(e)",
+      "secteur": "Finance & Business",
+      "description": "Crée et développe sa propre entreprise dans n'importe quel secteur.",
+      "salaire": "Variable — de 0 à illimité (marché togolais)",
+      "formation": "Aucune obligatoire, mais formation en gestion utile",
+      "competences_techniques": [
+        "selon le secteur, avec bases de gestion financière"
+      ],
+      "soft_skills": [
+        "prise de risque",
+        "résilience",
+        "leadership",
+        "vision"
+      ],
+      "perspectives": "dépend du secteur et de l'exécution",
+      "match_interets": [
+        "Entrepreneuriat",
+        "Innovation technologique",
+        "Résolution de problèmes"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Leadership",
+        "Négociation",
+        "Adaptabilité",
+        "Créativité"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Environnement dynamique/rapide",
+        "Horaires flexibles"
+      ]
+    },
+    {
+      "id": "car_005",
+      "nom_metier": "Responsable marketing / Community Manager",
+      "secteur": "Finance & Business",
+      "description": "Définit la stratégie marketing et gère la présence en ligne des marques.",
+      "salaire": "100 000 à 900 000 FCFA/mois (marché togolais) selon le niveau",
+      "formation": "Bac+3 à Bac+5",
+      "competences_techniques": [
+        "marketing digital",
+        "SEO/SEA",
+        "gestion de campagnes",
+        "analytics"
+      ],
+      "soft_skills": [
+        "créativité",
+        "leadership",
+        "esprit d'analyse"
+      ],
+      "perspectives": "bonnes, avec la digitalisation croissante",
+      "match_interets": [
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)",
+        "Entrepreneuriat",
+        "Création de contenu",
+        "Photographie (technologie, voyages, créativité)"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Langues"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Communication",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "Environnement dynamique/rapide",
+        "En télétravail"
+      ]
+    },
+    {
+      "id": "car_035",
+      "nom_metier": "Responsable des ressources humaines",
+      "secteur": "Finance & Business",
+      "description": "Gère le recrutement, la formation et les relations sociales d'une entreprise.",
+      "salaire": "300 000 à 800 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5",
+      "competences_techniques": [
+        "droit du travail",
+        "SIRH",
+        "gestion de la paie"
+      ],
+      "soft_skills": [
+        "écoute",
+        "diplomatie",
+        "gestion de conflits"
+      ],
+      "perspectives": "stables",
+      "match_interets": [
+        "Psychologie",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Sciences Sociales"
+      ],
+      "match_competences": [
+        "Empathie",
+        "Communication",
+        "Organisation",
+        "Leadership"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En équipe",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_036",
+      "nom_metier": "Consultant(e) en management / stratégie",
+      "secteur": "Finance & Business",
+      "description": "Conseille les entreprises sur l'organisation, la stratégie et la performance.",
+      "salaire": "300 000 à 1 000 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 (école de commerce ou d'ingénieur)",
+      "competences_techniques": [
+        "analyse stratégique",
+        "gestion de projet",
+        "outils de data"
+      ],
+      "soft_skills": [
+        "communication",
+        "adaptabilité",
+        "leadership"
+      ],
+      "perspectives": "bonnes, surtout dans les entreprises en croissance",
+      "match_interets": [
+        "Entrepreneuriat",
+        "Résolution de problèmes",
+        "Échecs & Stratégie",
+        "Productivité"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Leadership",
+        "Communication",
+        "Analyse de données",
+        "Négociation"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "Environnement dynamique/rapide",
+        "En équipe"
+      ]
+    },
+    {
+      "id": "car_013",
+      "nom_metier": "Avocat(e) / Juriste",
+      "secteur": "Finance & Business",
+      "description": "Conseille et défend les clients dans des affaires juridiques et commerciales.",
+      "salaire": "150 000 à 1 200 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5 + CAPA",
+      "competences_techniques": [
+        "droit OHADA",
+        "plaidoirie",
+        "rédaction juridique"
+      ],
+      "soft_skills": [
+        "argumentation",
+        "sang-froid",
+        "éthique"
+      ],
+      "perspectives": "bonnes, surtout en droit des affaires et droit du travail",
+      "match_interets": [
+        "Lecture",
+        "Écriture (documentation, articles, prise de notes)"
+      ],
+      "match_matieres": [
+        "Histoire",
+        "Philosophie",
+        "Langues"
+      ],
+      "match_competences": [
+        "Communication",
+        "Négociation",
+        "Analyse de données"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "Environnement dynamique/rapide",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_010",
+      "nom_metier": "Professeur(e) / Enseignant(e)",
+      "secteur": "Éducation & Formation",
+      "description": "Transmet les savoirs aux élèves du primaire, secondaire ou supérieur.",
+      "salaire": "100 000 à 700 000 FCFA/mois (marché togolais) selon le niveau",
+      "formation": "Bac+3 à Bac+8 selon le niveau d'enseignement",
+      "competences_techniques": [
+        "pédagogie",
+        "maîtrise disciplinaire",
+        "programmes scolaires"
+      ],
+      "soft_skills": [
+        "patience",
+        "communication",
+        "autorité bienveillante"
+      ],
+      "perspectives": "stables, recrutements réguliers",
+      "match_interets": [
+        "Lecture",
+        "Psychologie",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)"
+      ],
+      "match_matieres": [
+        "Littérature",
+        "Histoire",
+        "Philosophie",
+        "Sciences Sociales"
+      ],
+      "match_competences": [
+        "Communication",
+        "Empathie",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "Cadre structuré",
+        "En bureau"
+      ]
+    },
+    {
+      "id": "car_037",
+      "nom_metier": "Conseiller(ère) d'orientation",
+      "secteur": "Éducation & Formation",
+      "description": "Accompagne les élèves et étudiants dans leurs choix d'orientation scolaire et professionnelle.",
+      "salaire": "120 000 à 300 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5",
+      "competences_techniques": [
+        "connaissance des filières et métiers",
+        "outils d'évaluation"
+      ],
+      "soft_skills": [
+        "écoute",
+        "neutralité",
+        "pédagogie"
+      ],
+      "perspectives": "stables",
+      "match_interets": [
+        "Psychologie",
+        "Lecture",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)"
+      ],
+      "match_matieres": [
+        "Sciences Sociales",
+        "Philosophie",
+        "Histoire"
+      ],
+      "match_competences": [
+        "Empathie",
+        "Communication",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En équipe",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_038",
+      "nom_metier": "Formateur(trice) professionnel(le)",
+      "secteur": "Éducation & Formation",
+      "description": "Forme des adultes dans un domaine spécifique (entreprise, centre de formation).",
+      "salaire": "200 000 à 500 000 FCFA/mois (marché togolais)",
+      "formation": "Variable selon la spécialité",
+      "competences_techniques": [
+        "ingénierie pédagogique",
+        "expertise du domaine enseigné"
+      ],
+      "soft_skills": [
+        "pédagogie",
+        "adaptabilité",
+        "écoute"
+      ],
+      "perspectives": "bonnes, formation continue en expansion",
+      "match_interets": [
+        "Lecture",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)",
+        "Entrepreneuriat"
+      ],
+      "match_matieres": [
+        "Littérature",
+        "Histoire",
+        "Philosophie"
+      ],
+      "match_competences": [
+        "Communication",
+        "Adaptabilité",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "En bureau",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_016",
+      "nom_metier": "Graphiste / Designer graphique",
+      "secteur": "Arts & Création",
+      "description": "Crée des supports visuels comme logos, affiches et identités visuelles.",
+      "salaire": "94 000 à 415 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+2 à Bac+5",
+      "competences_techniques": [
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "typographie"
+      ],
+      "soft_skills": [
+        "créativité",
+        "sens artistique",
+        "écoute du client"
+      ],
+      "perspectives": "correctes, surtout avec la demande digitale et publicitaire",
+      "match_interets": [
+        "Photographie (technologie, voyages, créativité)",
+        "Création de contenu",
+        "Montage vidéo (présentations, tutoriels, contenu numérique)"
+      ],
+      "match_matieres": [
+        "Littérature",
+        "Langues"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Communication",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Horaires flexibles",
+        "En télétravail"
+      ]
+    },
+    {
+      "id": "car_039",
+      "nom_metier": "Réalisateur(trice) / Monteur(euse) vidéo",
+      "secteur": "Arts & Création",
+      "description": "Conçoit et assemble des contenus audiovisuels pour le web, la TV ou le cinéma.",
+      "salaire": "200 000 à 600 000 FCFA/mois (marché togolais)",
+      "formation": "École de cinéma/audiovisuel ou autodidacte",
+      "competences_techniques": [
+        "montage",
+        "narration visuelle",
+        "prise de vue"
+      ],
+      "soft_skills": [
+        "créativité",
+        "sens du rythme",
+        "gestion de projet"
+      ],
+      "perspectives": "bonnes, avec la forte demande en contenu vidéo",
+      "match_interets": [
+        "Montage vidéo (présentations, tutoriels, contenu numérique)",
+        "Photographie (technologie, voyages, créativité)",
+        "Création de contenu",
+        "Podcast",
+        "Streaming"
+      ],
+      "match_matieres": [
+        "Littérature",
+        "Langues"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Organisation",
+        "Communication"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Horaires flexibles",
+        "En télétravail"
+      ]
+    },
+    {
+      "id": "car_040",
+      "nom_metier": "Musicien(ne) / Compositeur(trice)",
+      "secteur": "Arts & Création",
+      "description": "Crée, interprète ou produit de la musique.",
+      "salaire": "Très variable (marché togolais)",
+      "formation": "Conservatoire ou autodidacte",
+      "competences_techniques": [
+        "maîtrise instrumentale",
+        "théorie musicale",
+        "production"
+      ],
+      "soft_skills": [
+        "créativité",
+        "persévérance",
+        "sens du réseau"
+      ],
+      "perspectives": "difficiles mais avec des opportunités via les plateformes numériques",
+      "match_interets": [
+        "Musique",
+        "Création de contenu",
+        "Podcast",
+        "Streaming"
+      ],
+      "match_matieres": [
+        "Littérature"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Travail en équipe",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Horaires flexibles"
+      ]
+    },
+    {
+      "id": "car_041",
+      "nom_metier": "Photographe",
+      "secteur": "Arts & Création",
+      "description": "Capture des images pour divers usages : événementiel, presse, mode et communication.",
+      "salaire": "100 000 à 400 000 FCFA/mois (marché togolais)",
+      "formation": "Formation technique ou autodidacte",
+      "competences_techniques": [
+        "prise de vue",
+        "retouche",
+        "lumière",
+        "composition"
+      ],
+      "soft_skills": [
+        "créativité",
+        "sens du relationnel",
+        "patience"
+      ],
+      "perspectives": "marché concurrentiel avec des niches porteuses",
+      "match_interets": [
+        "Photographie (technologie, voyages, créativité)",
+        "Voyages (découverte de cultures et technologies)",
+        "Création de contenu"
+      ],
+      "match_matieres": [
+        "Langues",
+        "Littérature",
+        "Histoire"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Communication",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "En plein air",
+        "Horaires flexibles"
+      ]
+    },
+    {
+      "id": "car_042",
+      "nom_metier": "Créateur(trice) de contenu / Influenceur(euse)",
+      "secteur": "Arts & Création",
+      "description": "Produit du contenu pour les réseaux sociaux et en tire des revenus.",
+      "salaire": "Extrêmement variable (marché togolais)",
+      "formation": "Aucune requise",
+      "competences_techniques": [
+        "création de contenu",
+        "montage",
+        "analytics des réseaux"
+      ],
+      "soft_skills": [
+        "créativité",
+        "charisme",
+        "régularité",
+        "résilience"
+      ],
+      "perspectives": "en forte croissance mais très concurrentiel",
+      "match_interets": [
+        "Création de contenu",
+        "Podcast",
+        "Streaming",
+        "Montage vidéo (présentations, tutoriels, contenu numérique)",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)"
+      ],
+      "match_matieres": [
+        "Littérature",
+        "Langues"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Communication",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Horaires flexibles",
+        "En télétravail"
+      ]
+    },
+    {
+      "id": "car_043",
+      "nom_metier": "Écrivain(e) / Journaliste / Rédacteur(trice)",
+      "secteur": "Arts & Création",
+      "description": "Rédige des contenus écrits : livres, articles, contenus web, documentation.",
+      "salaire": "Très variable, souvent freelance (marché togolais)",
+      "formation": "Bac+3 à Bac+5 ou autodidacte",
+      "competences_techniques": [
+        "écriture",
+        "SEO",
+        "recherche documentaire"
+      ],
+      "soft_skills": [
+        "créativité",
+        "rigueur",
+        "curiosité"
+      ],
+      "perspectives": "marché concurrentiel, mais la demande en contenu reste forte",
+      "match_interets": [
+        "Écriture (documentation, articles, prise de notes)",
+        "Lecture",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)"
+      ],
+      "match_matieres": [
+        "Littérature",
+        "Histoire",
+        "Langues",
+        "Philosophie"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Communication",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Horaires flexibles",
+        "En télétravail"
+      ]
+    },
+    {
+      "id": "car_044",
+      "nom_metier": "Game designer / Développeur(euse) de jeux vidéo",
+      "secteur": "Arts & Création",
+      "description": "Conçoit le gameplay, les mécaniques et les univers de jeux vidéo.",
+      "salaire": "250 000 à 700 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+3 à Bac+5",
+      "competences_techniques": [
+        "Unity",
+        "Unreal",
+        "programmation",
+        "level design"
+      ],
+      "soft_skills": [
+        "créativité",
+        "travail d'équipe",
+        "sens du jeu"
+      ],
+      "perspectives": "bonnes, industrie en croissance continue",
+      "match_interets": [
+        "Jeux vidéo (principalement jeux de stratégie, simulation ou compétitifs)",
+        "Développement de jeux vidéo",
+        "Programmation",
+        "Création de contenu"
+      ],
+      "match_matieres": [
+        "Informatique",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Résolution de problèmes",
+        "Travail en équipe"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En équipe",
+        "En télétravail"
+      ]
+    },
+    {
+      "id": "car_045",
+      "nom_metier": "Traducteur(trice) / Interprète",
+      "secteur": "Arts & Création",
+      "description": "Traduit ou interprète des contenus d'une langue à l'autre.",
+      "salaire": "200 000 à 500 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5",
+      "competences_techniques": [
+        "maîtrise de plusieurs langues",
+        "outils de TAO"
+      ],
+      "soft_skills": [
+        "précision",
+        "concentration",
+        "culture générale"
+      ],
+      "perspectives": "impactées par l'IA, mais les spécialisations résistent mieux",
+      "match_interets": [
+        "Lecture",
+        "Voyages (découverte de cultures et technologies)",
+        "Écriture (documentation, articles, prise de notes)"
+      ],
+      "match_matieres": [
+        "Langues",
+        "Littérature",
+        "Histoire"
+      ],
+      "match_competences": [
+        "Communication",
+        "Organisation",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "En télétravail",
+        "Horaires flexibles"
+      ]
+    },
+    {
+      "id": "car_002",
+      "nom_metier": "Ingénieur(e) agronome",
+      "secteur": "Agriculture & Environnement",
+      "description": "Optimise les pratiques agricoles et la production alimentaire au Togo et en Afrique.",
+      "salaire": "300 000 à 800 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5",
+      "competences_techniques": [
+        "agronomie",
+        "gestion environnementale",
+        "analyse de sols"
+      ],
+      "soft_skills": [
+        "esprit d'analyse",
+        "terrain",
+        "communication"
+      ],
+      "perspectives": "bonnes, agriculture durable en expansion",
+      "match_interets": [
+        "Sciences & Recherche",
+        "Veille scientifique et technologique"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Chimie",
+        "Géographie"
+      ],
+      "match_competences": [
+        "Analyse de données",
+        "Résolution de problèmes",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En plein air",
+        "En autonomie",
+        "En équipe"
+      ]
+    },
+    {
+      "id": "car_009",
+      "nom_metier": "Logisticien(ne) / Supply Chain Manager",
+      "secteur": "Transport & Logistique",
+      "description": "Organise les flux de marchandises et la chaîne d'approvisionnement. Le Port de Lomé est le hub logistique majeur d'Afrique de l'Ouest.",
+      "salaire": "250 000 à 700 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+3 à Bac+5",
+      "competences_techniques": [
+        "ERP",
+        "gestion de stocks",
+        "optimisation logistique",
+        "Incoterms"
+      ],
+      "soft_skills": [
+        "organisation",
+        "gestion de crise",
+        "négociation"
+      ],
+      "perspectives": "bonnes, digitalisation du secteur",
+      "match_interets": [
+        "Entrepreneuriat",
+        "Résolution de problèmes",
+        "Productivité"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Géographie",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Organisation",
+        "Négociation",
+        "Résolution de problèmes"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "Environnement dynamique/rapide",
+        "En équipe"
+      ]
+    },
+    {
+      "id": "car_012",
+      "nom_metier": "Gestionnaire de projet (Project Manager)",
+      "secteur": "Transport & Logistique",
+      "description": "Planifie et coordonne des projets de A à Z dans les ONGs, entreprises et institutions.",
+      "salaire": "200 000 à 1 500 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+5, certifications PMP/PMI",
+      "competences_techniques": [
+        "MS Project",
+        "Agile/Scrum",
+        "budgétisation",
+        "reporting"
+      ],
+      "soft_skills": [
+        "leadership",
+        "communication",
+        "gestion du stress"
+      ],
+      "perspectives": "forte demande, surtout dans les ONGs internationales à Lomé",
+      "match_interets": [
+        "Entrepreneuriat",
+        "Résolution de problèmes",
+        "Productivité",
+        "Échecs & Stratégie"
+      ],
+      "match_matieres": [
+        "Économie",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Leadership",
+        "Organisation",
+        "Communication",
+        "Travail en équipe"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En équipe",
+        "Environnement dynamique/rapide"
+      ]
+    },
+    {
+      "id": "car_046",
+      "nom_metier": "Entraîneur(euse) sportif / Coach personnel",
+      "secteur": "Sport & Bien-être",
+      "description": "Encadre des sportifs ou des particuliers pour atteindre des objectifs physiques.",
+      "salaire": "100 000 à 400 000 FCFA/mois (marché togolais), souvent variable",
+      "formation": "BPJEPS, STAPS",
+      "competences_techniques": [
+        "physiologie de l'exercice",
+        "programmation d'entraînement"
+      ],
+      "soft_skills": [
+        "motivation",
+        "pédagogie",
+        "écoute"
+      ],
+      "perspectives": "bonnes, marché du bien-être en croissance",
+      "match_interets": [
+        "Sport & Fitness"
+      ],
+      "match_matieres": [
+        "SVT",
+        "Physique"
+      ],
+      "match_competences": [
+        "Organisation",
+        "Communication",
+        "Empathie",
+        "Leadership"
+      ],
+      "match_environnement": [
+        "En plein air",
+        "Horaires flexibles",
+        "En autonomie"
+      ]
+    },
+    {
+      "id": "car_020",
+      "nom_metier": "Diplomate / Attaché d'ambassade",
+      "secteur": "Administration Publique",
+      "description": "Représente les intérêts du Togo à l'étranger. Carrière prestigieuse liée à la Fonction Publique.",
+      "salaire": "200 000 à 1 500 000 FCFA/mois (marché togolais) + avantages diplomatiques",
+      "formation": "Master Relations Internationales, ENA",
+      "competences_techniques": [
+        "relations internationales",
+        "langues",
+        "négociation",
+        "protocole"
+      ],
+      "soft_skills": [
+        "diplomatie",
+        "adaptabilité culturelle",
+        "discrétion"
+      ],
+      "perspectives": "postes très sélectifs",
+      "match_interets": [
+        "Voyages (découverte de cultures et technologies)",
+        "Lecture",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)"
+      ],
+      "match_matieres": [
+        "Histoire",
+        "Langues",
+        "Géographie",
+        "Philosophie"
+      ],
+      "match_competences": [
+        "Communication",
+        "Négociation",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En bureau",
+        "En équipe",
+        "Environnement dynamique/rapide"
+      ]
+    },
+    {
+      "id": "car_014",
+      "nom_metier": "Électricien(ne) / Technicien maintenance",
+      "secteur": "Artisanat & Métiers Manuels",
+      "description": "Installe, entretient et répare les systèmes électriques et équipements industriels.",
+      "salaire": "100 000 à 400 000 FCFA/mois (marché togolais)",
+      "formation": "CAP à BTS",
+      "competences_techniques": [
+        "normes électriques",
+        "lecture de schémas",
+        "électromécanique",
+        "domotique"
+      ],
+      "soft_skills": [
+        "minutie",
+        "sens de la sécurité",
+        "autonomie"
+      ],
+      "perspectives": "excellentes, liées à la transition énergétique",
+      "match_interets": [
+        "Ingénierie",
+        "Technologie & Informatique"
+      ],
+      "match_matieres": [
+        "Physique",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Organisation",
+        "Adaptabilité"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "En plein air",
+        "Environnement dynamique/rapide"
+      ]
+    },
+    {
+      "id": "car_047",
+      "nom_metier": "Mécanicien(ne) automobile",
+      "secteur": "Artisanat & Métiers Manuels",
+      "description": "Diagnostique et répare les véhicules. La montée des véhicules électriques ouvre de nouvelles spécialités.",
+      "salaire": "100 000 à 300 000 FCFA/mois (marché togolais)",
+      "formation": "CAP à BTS",
+      "competences_techniques": [
+        "diagnostic électronique",
+        "mécanique",
+        "véhicules électriques"
+      ],
+      "soft_skills": [
+        "sens pratique",
+        "méthode",
+        "relation client"
+      ],
+      "perspectives": "en mutation, nécessite une reconversion vers l'électrique",
+      "match_interets": [
+        "Ingénierie",
+        "Innovation technologique"
+      ],
+      "match_matieres": [
+        "Physique",
+        "Mathématiques"
+      ],
+      "match_competences": [
+        "Résolution de problèmes",
+        "Adaptabilité",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En autonomie",
+        "Environnement dynamique/rapide"
+      ]
+    },
+    {
+      "id": "car_048",
+      "nom_metier": "Chef cuisinier(ère)",
+      "secteur": "Hôtellerie & Restauration",
+      "description": "Crée et supervise la préparation des plats dans un restaurant.",
+      "salaire": "100 000 à 300 000 FCFA/mois (marché togolais)",
+      "formation": "CAP cuisine à Bac+2/3",
+      "competences_techniques": [
+        "techniques culinaires",
+        "gestion de brigade",
+        "hygiène"
+      ],
+      "soft_skills": [
+        "créativité",
+        "gestion du stress",
+        "leadership"
+      ],
+      "perspectives": "bonnes, mais métier exigeant",
+      "match_interets": [
+        "Cuisine & Gastronomie",
+        "Entrepreneuriat",
+        "Création de contenu"
+      ],
+      "match_matieres": [
+        "Chimie",
+        "SVT"
+      ],
+      "match_competences": [
+        "Créativité",
+        "Leadership",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En équipe",
+        "Environnement dynamique/rapide",
+        "Cadre structuré"
+      ]
+    },
+    {
+      "id": "car_049",
+      "nom_metier": "Guide touristique / Agent(e) de voyage",
+      "secteur": "Hôtellerie & Restauration",
+      "description": "Accompagne les touristes ou organise des voyages, notamment en Afrique de l'Ouest.",
+      "salaire": "100 000 à 300 000 FCFA/mois (marché togolais)",
+      "formation": "Bac+2 à Bac+3",
+      "competences_techniques": [
+        "connaissance géographique et culturelle",
+        "langues",
+        "outils de réservation"
+      ],
+      "soft_skills": [
+        "pédagogie",
+        "sens du relationnel",
+        "adaptabilité"
+      ],
+      "perspectives": "correctes, concurrence des plateformes en ligne",
+      "match_interets": [
+        "Voyages (découverte de cultures et technologies)",
+        "Histoire (histoire des sciences, de l'informatique ou des civilisations)",
+        "Communication & Médias (veille technologique, vulgarisation, réseaux sociaux)"
+      ],
+      "match_matieres": [
+        "Histoire",
+        "Géographie",
+        "Langues"
+      ],
+      "match_competences": [
+        "Communication",
+        "Adaptabilité",
+        "Organisation"
+      ],
+      "match_environnement": [
+        "En plein air",
+        "Horaires flexibles",
+        "Environnement dynamique/rapide"
+      ]
+    }
+  ]
+}
